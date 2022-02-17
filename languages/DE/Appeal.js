@@ -1,0 +1,16 @@
+export default {
+	appealsDisplayed: 'Nachrichten gezeigt',
+	appealStatus: 'Nachricht-Status',
+	waitingForHandle: 'Bearbeitung folgt',
+	handled: 'bearbeitet',
+	name: 'Name',
+	contactNumber: 'Telefonnummer',
+	email: 'E-Mail Adresse',
+	type: 'Typ',
+	status: 'Status',
+	date: 'Datum',
+	messageText: 'Ihre Nachricht',
+	handle: 'bearbeiten',
+	areYouSureAppealIsHandled: 'Sind Sie sicher, dass Ihre Anfrage bearbeitet wurde?',
+	appeals: 'Anfragen',
+};

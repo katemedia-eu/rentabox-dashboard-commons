@@ -1,0 +1,16 @@
+export default {
+	appealsDisplayed: 'Appeal displayed',
+	appealStatus: 'Appeal status',
+	waitingForHandle: 'Waiting',
+	handled: 'Handled',
+	name: 'Name',
+	contactNumber: 'Phone',
+	email: 'Email',
+	type: 'Type',
+	status: 'Status',
+	date: 'Date',
+	messageText: 'Appeal text',
+	handle: 'Handle',
+	areYouSureAppealIsHandled: 'Are you sure appeal is handled?',
+	appeals: 'Appeals',
+};
