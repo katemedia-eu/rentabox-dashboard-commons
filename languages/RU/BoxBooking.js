@@ -63,4 +63,6 @@ export default {
 	back: 'Назад',
 	insuranceWillBeAdded: '+страховка',
 	automaticPaymentsText: 'Автоматический ежемесячный платеж',
+	searchHeader: 'Поиск по карте',
+	cityOrStockName: 'Город или склада'
 };

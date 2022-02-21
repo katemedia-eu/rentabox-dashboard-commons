@@ -71,4 +71,8 @@ export default {
 	wifiPassword: 'Wi-Fi password',
 	accessDenied: 'Access Denied',
 	accessAllowed: 'Access Allowed',
+	coordinates: 'Сoordinates',
+	latitude: 'Latitude',
+	longitude: 'Longitude',
+	stockId_sm: 'Stock ID SM'
 };

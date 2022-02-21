@@ -6,5 +6,8 @@ export default {
 	options: 'Опции',
 	edit: 'Изменить',
 	editingCity: 'Редактирование города',
-	areYouSureYouWantToDeleteCity: 'Вы уверены, что хотите удалить город?'
+	areYouSureYouWantToDeleteCity: 'Вы уверены, что хотите удалить город?',
+	cityCenterCoordinates: 'Координаты центра города',
+	latitude: 'Широта',
+	longitude: 'Долгота',
 };

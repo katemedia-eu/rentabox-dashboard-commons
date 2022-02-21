@@ -63,4 +63,6 @@ export default {
 	back: 'Back',
 	insuranceWillBeAdded: '+insurance',
 	automaticPaymentsText: 'Automatic monthly payment',
+	searchHeader: 'Search this map',
+	cityOrStockName: 'Сity or stock',
 };
