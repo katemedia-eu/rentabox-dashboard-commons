@@ -65,6 +65,7 @@ export default {
 	loginAsUser: 'Войти как пользователь',
 	created: 'Время создания',
 	unknownDate: 'Дата обновления неизвестна',
-	importUsersByDate: 'Импорт пользователей по дате',
+	importUsers: 'Импорт пользователей',
+	createdAfter: 'Созданых после',
 	otherContacts: 'Другие способы связи'
 };

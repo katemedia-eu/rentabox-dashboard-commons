@@ -63,6 +63,7 @@ export default {
 	loginAsUser: 'Login as user',
 	created: 'Date of creation',
 	unknownDate: 'Update date unknown',
-	importUsersByDate: 'Import users by date',
+	importUsers: 'Import Users',
+	createdAfter: 'Created after',
 	otherContacts: 'Other contacts'
 };
