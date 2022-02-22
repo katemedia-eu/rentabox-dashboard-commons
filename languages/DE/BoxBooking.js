@@ -63,4 +63,6 @@ export default {
 	back: 'Zurück',
 	insuranceWillBeAdded: 'zzgl Vers',
 	automaticPaymentsText: 'Automatische monatliche Zahlung',
+	searchHeader: 'Diese Karte durchsuchen',
+	cityOrStockName: 'Standort oder des Lagers'
 };

@@ -66,4 +66,8 @@ export default {
 	wifiPassword: 'Wi-Fi passwort',
 	accessDenied: 'Der Zugang ist verwehrt',
 	accessAllowed: 'Der Zugang ist erlaubt',
+	coordinates: 'Koordinaten',
+	latitude: 'Breite',
+	longitude: 'Längengrad',
+	stockId_sm: 'Standorte ID SM'
 };

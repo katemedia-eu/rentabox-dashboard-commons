@@ -7,4 +7,7 @@ export default {
 	edit: 'Edit',
 	editingCity: 'Editing city',
 	areYouSureYouWantToDeleteCity: 'Are you sure you want to delete city from system?',
+	cityCenterCoordinates: 'City center coordinates',
+	latitude: 'Latitude',
+	longitude: 'Longitude',
 };

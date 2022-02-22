@@ -71,4 +71,8 @@ export default {
 	wifiPassword: 'Wi-Fi пароль',
 	accessDenied: 'Доступ запрещён',
 	accessAllowed: 'Доступ разрешён',
+	coordinates: 'Координаты',
+	latitude: 'Широта',
+	longitude: 'Долгота',
+	stockId_sm: 'ID склада SM'
 };
