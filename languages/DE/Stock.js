@@ -69,5 +69,7 @@ export default {
 	coordinates: 'Koordinaten',
 	latitude: 'Breite',
 	longitude: 'Längengrad',
-	stockId_sm: 'Standorte ID SM'
+	stockId_sm: 'Standorte ID SM',
+	save: 'Speichern',
+	boxesMapConstructor: 'Boxen Kartenkonstruktor'
 };
