@@ -74,5 +74,7 @@ export default {
 	coordinates: 'Координаты',
 	latitude: 'Широта',
 	longitude: 'Долгота',
-	stockId_sm: 'ID склада SM'
+	stockId_sm: 'ID склада SM',
+	save: 'Сохранить',
+	boxesMapConstructor: 'Конструктор расположения боксов'
 };

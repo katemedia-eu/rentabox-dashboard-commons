@@ -74,5 +74,7 @@ export default {
 	coordinates: 'Сoordinates',
 	latitude: 'Latitude',
 	longitude: 'Longitude',
-	stockId_sm: 'Stock ID SM'
+	stockId_sm: 'Stock ID SM',
+	save: 'Save',
+	boxesMapConstructor: 'Boxes map constructor'
 };
