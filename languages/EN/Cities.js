@@ -9,5 +9,5 @@ export default {
 	areYouSureYouWantToDeleteCity: 'Are you sure you want to delete city from system?',
 	cityCenterCoordinates: 'City center coordinates',
 	latitude: 'Latitude',
-	longitude: 'Longitude',
+	longitude: 'Longitude'
 };

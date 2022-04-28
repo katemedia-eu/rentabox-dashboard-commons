@@ -9,6 +9,5 @@ export default {
 	areYouSureYouWantToDeleteCity: 'Wollen Sie wirklich die Stadt löschen?',
 	cityCenterCoordinates: 'Koordinaten des Stadtzentrums',
 	latitude: 'Breite',
-	longitude: 'Längengrad',
-	areYouSureYouWantToDeleteCity: 'Wollen Sie wirklich die Stadt löschen?'
+	longitude: 'Längengrad'
 };
