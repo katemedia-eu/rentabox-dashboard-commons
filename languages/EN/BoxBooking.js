@@ -17,7 +17,6 @@ export default {
 	inclVAT: 'incl. VAT',
 	toBookABox: 'In order to book a box, please,',
 	authorize: 'Authorize',
-	confirmAndPay: 'Confirm and Pay',	// TODO: unused
 	iAgree: 'By clicking Confirm, you accept the following documents:',
 	contractAgreementDoc: 'Box Lease Agreement (Preview)',
 	stockRoutine: 'Stock routine',
@@ -65,4 +64,7 @@ export default {
 	automaticPaymentsText: 'Automatic monthly payment',
 	searchHeader: 'Search this map',
 	cityOrStockName: 'Сity or stock',
+	sendPhotos: 'Send photo',
+	uploadDocsPhoto: 'Upload docs photo',
+	bookingByTheAdministrator: 'Booking by the administrator is prohibited! Log in as a user.'
 };

@@ -67,5 +67,9 @@ export default {
 		unrecognized: 'Unrecognized payment error',
 	},
 	poweredByStripe: 'Powered by Stripe',
-	payByCard: 'Pay by card'
+	payByCard: 'Pay by card',
+	invoiceNumber: 'Invoice Number',
+	amount: 'Amount',
+	system: 'System',
+	date: 'Date'
 };

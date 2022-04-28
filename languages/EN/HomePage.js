@@ -18,6 +18,7 @@ export default {
 	notifications: 'Notifications',
 	monthlyBills: 'Monthly Bills',
 	Subscriptions: 'Subscriptions',
+	externalPayments: 'Payments',
 	notSentInvoicesEmails: 'Not sent invoices emails',
 	notificationsOfPenalty: 'Notifications of penalty',
 	issueTheFirstPenaltyInvoice: 'Issue the first penalty invoice',

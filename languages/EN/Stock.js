@@ -76,5 +76,6 @@ export default {
 	longitude: 'Longitude',
 	stockId_sm: 'Stock ID SM',
 	save: 'Save',
-	boxesMapConstructor: 'Boxes map constructor'
+	boxesMapConstructor: 'Boxes map constructor',
+	accountBalance: 'Account balance'
 };
