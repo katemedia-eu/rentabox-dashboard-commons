@@ -17,7 +17,6 @@ export default {
 	inclVAT: 'inkl. MwSt.',
 	toBookABox: 'Um eine Lagerraum zu buchen, bitte,',
 	authorize: 'Anmelden',
-	confirmAndPay: 'Bestätigen und Bezahlen',	// TODO: unused
 	iAgree: 'Durch Klicken auf Bestätigen akzeptieren Sie die folgenden Dokumente:',
 	contractAgreementDoc: 'Lagerraum Mietvertrag (Vorschau)',
 	stockRoutine: 'Hausordnung',
@@ -64,5 +63,8 @@ export default {
 	insuranceWillBeAdded: 'zzgl Vers',
 	automaticPaymentsText: 'Automatische monatliche Zahlung',
 	searchHeader: 'Diese Karte durchsuchen',
-	cityOrStockName: 'Standort oder des Lagers'
+	cityOrStockName: 'Standort oder des Lagers',
+	sendPhotos: 'Foto senden',
+	uploadDocsPhoto: 'Dokumentenfotos hochladen',
+	bookingByTheAdministrator: 'Eine Buchung durch den Administrator ist untersagt! Melden Sie sich als Benutzer an.'
 };

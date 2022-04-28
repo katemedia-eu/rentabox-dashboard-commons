@@ -71,5 +71,6 @@ export default {
 	longitude: 'Längengrad',
 	stockId_sm: 'Standorte ID SM',
 	save: 'Speichern',
-	boxesMapConstructor: 'Boxen Kartenkonstruktor'
+	boxesMapConstructor: 'Boxen Kartenkonstruktor',
+	accountBalance: 'Kontostand'
 };

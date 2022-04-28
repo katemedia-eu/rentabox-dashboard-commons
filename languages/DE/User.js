@@ -65,5 +65,6 @@ export default {
 	unknownDate: 'Aktualisierungsdatum unbekannt',
 	importUsers: 'Benutzer importieren',
 	createdAfter: 'Erstellt nach',
+	importUsersByDate: 'Benutzer nach Datum importieren',
 	otherContacts: 'Andere Kontakte'
 };

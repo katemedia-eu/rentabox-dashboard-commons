@@ -67,5 +67,9 @@ export default {
 		unrecognized: 'Nicht erkannter Zahlungsfehler',
 	},
 	poweredByStripe: 'angetrieben durch Stripe',
-	payByCard: 'Mit Kreditkarte bezahlen'
+	payByCard: 'Mit Kreditkarte bezahlen',
+	invoiceNumber: 'Rechnungsnummer',
+	amount: 'Summe',
+	system: 'System',
+	date: 'Datum'
 };

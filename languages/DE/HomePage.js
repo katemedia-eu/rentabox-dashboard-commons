@@ -18,6 +18,7 @@ export default {
 	notifications: 'Notifications',
 	monthlyBills: 'Monatliche Rechnungen',
 	Subscriptions: 'Abonnements',
+	externalPayments: 'Zahlungen',
 	notSentInvoicesEmails: 'Nicht gesendete Rechnungsmitteilungen',
 	notificationsOfPenalty: 'Benachrichtigungen über Strafen',
 	issueTheFirstPenaltyInvoice: 'die erste Strafrechnung ausstellen',
