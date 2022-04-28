@@ -10,4 +10,5 @@ export default {
 	cityCenterCoordinates: 'Координаты центра города',
 	latitude: 'Широта',
 	longitude: 'Долгота',
+	areYouSureYouWantToDeleteCity: 'Вы уверены, что хотите удалить город?'
 };

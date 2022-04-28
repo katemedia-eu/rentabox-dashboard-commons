@@ -67,5 +67,6 @@ export default {
 	unknownDate: 'Дата обновления неизвестна',
 	importUsers: 'Импорт пользователей',
 	createdAfter: 'Созданых после',
+	importUsersByDate: 'Импорт пользователей по дате',
 	otherContacts: 'Другие способы связи'
 };

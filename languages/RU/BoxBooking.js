@@ -17,7 +17,6 @@ export default {
 	inclVAT: 'Включая НДС',
 	toBookABox: 'Чтобы арендовать бокс, пожалуйста,',
 	authorize: 'Авторизуйтесь',
-	confirmAndPay: 'Подтвердить и оплатить',	// TODO: unused
 	iAgree: 'Нажимая Подтвердить, Вы принимаете следующие документы:',
 	contractAgreementDoc: 'Договор аренды бокса (предварительный просмотр)',
 	stockRoutine: 'Распорядок склада',
@@ -64,5 +63,8 @@ export default {
 	insuranceWillBeAdded: '+страховка',
 	automaticPaymentsText: 'Автоматический ежемесячный платеж',
 	searchHeader: 'Поиск по карте',
-	cityOrStockName: 'Город или склада'
+	cityOrStockName: 'Город или склада',
+	sendPhotos: 'Отправить фото',
+	uploadDocsPhoto: 'Загрузка фото документов',
+	bookingByTheAdministrator: 'Бронирование администратором запрещено! Авторизуйтесь как пользователь.'
 };

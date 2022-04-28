@@ -76,5 +76,6 @@ export default {
 	longitude: 'Долгота',
 	stockId_sm: 'ID склада SM',
 	save: 'Сохранить',
-	boxesMapConstructor: 'Конструктор расположения боксов'
+	boxesMapConstructor: 'Конструктор расположения боксов',
+	accountBalance: 'Баланс счёта'
 };

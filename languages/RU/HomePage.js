@@ -17,6 +17,7 @@ export default {
 	topDebtors: 'Топ-10 должников',
 	monthlyBills: 'Счета за месяц',
 	Subscriptions: 'Подписки',
+	externalPayments: 'Платежи',
 	notSentInvoicesEmails: 'Неотправленные уведомления о счетах',
 	notificationsOfPenalty: 'Уведомления о штрафах',
 	issueTheFirstPenaltyInvoice: 'Выставить первый штрафной счёт',
