@@ -66,5 +66,15 @@ export default {
 	cityOrStockName: 'Сity or stock',
 	sendPhotos: 'Send photo',
 	uploadDocsPhoto: 'Upload docs photo',
-	bookingByTheAdministrator: 'Booking by the administrator is prohibited! Log in as a user.'
+	bookingByTheAdministrator: 'Booking by the administrator is prohibited! Log in as a user.',
+	chooseYourInsurance: 'Choose your insurance',
+	valueOfGoods: 'Value of goods',
+	oneEuroForFirstMonth: '1st month for 1 Euro',
+	boxNumber: 'Box number',
+	minimalRentPeriodDescription: 'Minimum rental period 2 months',
+	forTwoInitialMonths: 'For the first 2 months',
+	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
+	price: 'Price',
+	selectBoxSize: 'Select box size',
+	enterDataAndPayment: 'Enter data & payment'
 };

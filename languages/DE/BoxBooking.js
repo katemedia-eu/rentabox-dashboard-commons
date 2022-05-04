@@ -4,7 +4,7 @@ export default {
 	stock: 'Lager',
 	address: 'Adresse',
 	zip: 'Zip',
-	selectStock: 'Lager auswählen',
+	selectStock: 'LAGER AUSWÄHLEN',
 	boxesAvailable: 'Boxen verfügbar',
 	totalBoxesNumberAtStock: 'Gesamtzahl der Kartons auf Lager',
 	sizes: 'Größen',
@@ -66,5 +66,15 @@ export default {
 	cityOrStockName: 'Standort oder des Lagers',
 	sendPhotos: 'Foto senden',
 	uploadDocsPhoto: 'Dokumentenfotos hochladen',
-	bookingByTheAdministrator: 'Eine Buchung durch den Administrator ist untersagt! Melden Sie sich als Benutzer an.'
+	bookingByTheAdministrator: 'Eine Buchung durch den Administrator ist untersagt! Melden Sie sich als Benutzer an.',
+	chooseYourInsurance: 'Wählen Sie Ihre Versicherung',
+	valueOfGoods: 'Warenwert',
+	oneEuroForFirstMonth: '1. Monatsmiete - 1 Euro',
+	boxNumber: 'Einheitsnummer',
+	minimalRentPeriodDescription: 'Mindestmietdauer 2 Monate',
+	forTwoInitialMonths: 'Für die ersten 2 Monate',
+	twoInitialMonthsInsuranceDescription: 'inkl. Lagerversicherung',
+	price: 'Preis',
+	selectBoxSize: 'LAGERRAUM WÄHLEN',
+	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG'
 };

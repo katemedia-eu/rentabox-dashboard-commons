@@ -66,5 +66,15 @@ export default {
 	cityOrStockName: 'Город или склада',
 	sendPhotos: 'Отправить фото',
 	uploadDocsPhoto: 'Загрузка фото документов',
-	bookingByTheAdministrator: 'Бронирование администратором запрещено! Авторизуйтесь как пользователь.'
+	bookingByTheAdministrator: 'Бронирование администратором запрещено! Авторизуйтесь как пользователь.',
+	chooseYourInsurance: 'Выберите вашу страховку',
+	valueOfGoods: 'Стоимость хранимых вещей',
+	oneEuroForFirstMonth: '1й месяц за 1 Евро',
+	boxNumber: 'Номер бокса',
+	minimalRentPeriodDescription: 'Минимальный срок хранения - 2 месяца',
+	forTwoInitialMonths: 'За первые два месяца',
+	price: 'Стоимость',
+	selectCity: 'Выберите город',
+	selectBoxSize: 'Размер бокса',
+	enterDataAndPayment: 'Выбор параметров и оплата'
 };
