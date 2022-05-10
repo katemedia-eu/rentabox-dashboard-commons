@@ -76,5 +76,7 @@ export default {
 	twoInitialMonthsInsuranceDescription: 'inkl. Lagerversicherung',
 	price: 'Preis',
 	selectBoxSize: 'LAGERRAUM WÄHLEN',
-	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG'
+	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG',
+	bookingParams: 'DATENEINGABE',
+	reserveOrPay: 'BEZAHLEN'
 };

@@ -76,5 +76,7 @@ export default {
 	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
 	price: 'Price',
 	selectBoxSize: 'Select box size',
-	enterDataAndPayment: 'Enter data & payment'
+	enterDataAndPayment: 'Enter data & payment',
+	bookingParams: 'Enter data',
+	reserveOrPay: 'Pay'
 };

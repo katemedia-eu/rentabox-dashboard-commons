@@ -76,5 +76,7 @@ export default {
 	price: 'Стоимость',
 	selectCity: 'Выберите город',
 	selectBoxSize: 'Размер бокса',
-	enterDataAndPayment: 'Выбор параметров и оплата'
+	enterDataAndPayment: 'Выбор параметров и оплата',
+	bookingParams: 'Выбор параметров',
+	reserveOrPay: 'Оплата'
 };
