@@ -78,5 +78,7 @@ export default {
 	selectBoxSize: 'Select box size',
 	enterDataAndPayment: 'Enter data & payment',
 	bookingParams: 'Enter data',
-	reserveOrPay: 'Pay'
+	reserveOrPay: 'Pay',
+	andPayLater: 'Und später bezahlen',
+	payLaterDesctiption: 'You will find invoice in your account'
 };

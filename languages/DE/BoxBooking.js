@@ -78,5 +78,7 @@ export default {
 	selectBoxSize: 'LAGERRAUM WÄHLEN',
 	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG',
 	bookingParams: 'DATENEINGABE',
-	reserveOrPay: 'BEZAHLEN'
+	reserveOrPay: 'BEZAHLEN',
+	andPayLater: 'Und später bezahlen',
+	payLaterDesctiption: 'Sie erhalten eine Rechnung per Post und können von Ihrem persönlichen Konto bezahlen'
 };
