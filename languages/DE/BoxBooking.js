@@ -80,5 +80,7 @@ export default {
 	bookingParams: 'DATENEINGABE',
 	reserveOrPay: 'BEZAHLEN',
 	andPayLater: 'Und später bezahlen',
-	payLaterDesctiption: 'Sie erhalten eine Rechnung per Post und können von Ihrem persönlichen Konto bezahlen'
+	payLaterDesctiption: 'Sie erhalten eine Rechnung per Post und können von Ihrem persönlichen Konto bezahlen',
+	contactSource: 'Quelle vom kontakt',
+	reasonForStorage: 'Aufbewahrungsgrund'
 };

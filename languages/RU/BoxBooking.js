@@ -78,5 +78,7 @@ export default {
 	selectBoxSize: 'Размер бокса',
 	enterDataAndPayment: 'Выбор параметров и оплата',
 	bookingParams: 'Выбор параметров',
-	reserveOrPay: 'Оплата'
+	reserveOrPay: 'Оплата',
+	contactSource: 'Откуда о нас узнали',
+	reasonForStorage: 'Причина хранения'
 };

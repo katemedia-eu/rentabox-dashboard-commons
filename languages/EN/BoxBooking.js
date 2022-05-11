@@ -80,5 +80,7 @@ export default {
 	bookingParams: 'Enter data',
 	reserveOrPay: 'Pay',
 	andPayLater: 'Und später bezahlen',
-	payLaterDesctiption: 'You will find invoice in your account'
+	payLaterDesctiption: 'You will find invoice in your account',
+	contactSource: 'How did you find out about us',
+	reasonForStorage: 'Storage Reason'
 };
