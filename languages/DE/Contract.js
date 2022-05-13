@@ -40,5 +40,6 @@ export default {
 	subscriptions: 'Abonnements',
 	transactions: 'Transaktionen',
 	date: 'Datum',
-	unitAccess: 'Zugang zur Einheit'
+	unitAccess: 'Zugang zur Einheit',
+	boxsize: 'Boxgröße',
 };

@@ -40,5 +40,6 @@ export default {
 	subscriptions: 'Подписки',
 	transactions: 'Tранзакции',
 	date: 'Дата',
-	unitAccess: 'Доступ к устройству'
+	unitAccess: 'Доступ к устройству',
+	boxsize: 'Размер бокса'
 };
