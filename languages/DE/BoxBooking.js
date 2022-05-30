@@ -98,5 +98,5 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	rentalCost: 'Mietkosten',
 	insurance: 'Versicherungsbetrag',
 	deposit: 'Versprechen',
-	Mehrwertsteuerbetrag: 'MwSt'
+	vatAmount: 'MwSt'
 };
