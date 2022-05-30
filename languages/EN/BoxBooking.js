@@ -93,5 +93,10 @@ export default {
 	startRentDate: 'Start rent date',
 	endRentDate: 'End rent date',
 	initialPayment: 'Initial payment',
-	enterIntoContract: 'Enter into contract'
+	enterIntoContract: 'Enter into contract',
+	details: 'Details',
+	rentalCost: 'Rental cost',
+	insurance: 'Insurance amount',
+	deposit: 'Deposit',
+	vatAmount: 'VAT'
 };

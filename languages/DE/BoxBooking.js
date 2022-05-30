@@ -93,5 +93,10 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	startRentDate: 'Beginn der Miete',
 	endRentDate: 'Enddatum der Miete',
 	initialPayment: 'Anzahlung',
-	enterIntoContract: 'Vertrag eingehen'
+	enterIntoContract: 'Vertrag eingehen',
+	details: 'Einzelheiten',
+	rentalCost: 'Mietkosten',
+	insurance: 'Versicherungsbetrag',
+	deposit: 'Versprechen',
+	Mehrwertsteuerbetrag: 'MwSt'
 };

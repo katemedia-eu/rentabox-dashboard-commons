@@ -91,5 +91,10 @@ export default {
 	startRentDate: 'Начало аренды',
 	endRentDate: 'Конец аренды',
 	initialPayment: 'Первоначальный платеж',
-	enterIntoContract: 'Заключить договор'
+	enterIntoContract: 'Заключить договор',
+	details: 'Детали',
+	rentalCost: 'Стоимость аренда',
+	insurance: 'Страховка',
+	deposit: 'Депозит',
+	vatAmount: 'НДС'
 };
