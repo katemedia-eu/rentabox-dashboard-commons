@@ -80,5 +80,16 @@ export default {
 	bookingParams: 'Выбор параметров',
 	reserveOrPay: 'Оплата',
 	contactSource: 'Откуда о нас узнали',
-	reasonForStorage: 'Причина хранения'
+	reasonForStorage: 'Причина хранения',
+	areYouSureToCreateAContract: 'Вы уверены, что хотите заключить договор?',
+	enterIntoContractExplanation: `Нажимая "Заключить договор" вы заключите договор.
+		Вы получите ссылку для подписания договора на Ваш емейл, а также первоначальные счет на оплату.
+		После оплаты счета вы получите доступ к складу и Вашему боксу.`,
+	reservationId: 'ID резервирования',
+	expires: 'Истекает',
+	box: 'Бокс',
+	startRentDate: 'Начало аренды',
+	endRentDate: 'Конец аренды',
+	initialPayment: 'Первоначальный платеж',
+	enterIntoContract: 'Заключить договор'
 };

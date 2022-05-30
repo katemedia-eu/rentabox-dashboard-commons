@@ -82,5 +82,16 @@ export default {
 	andPayLater: 'Und später bezahlen',
 	payLaterDesctiption: 'Sie erhalten eine Rechnung per Post und können von Ihrem persönlichen Konto bezahlen',
 	contactSource: 'Quelle vom kontakt',
-	reasonForStorage: 'Aufbewahrungsgrund'
+	reasonForStorage: 'Aufbewahrungsgrund',
+	areYouSureToCreateAContract: 'Möchten Sie wirklich einen Vertrag erstellen?',
+	enterIntoContractExplanation: `Mit Klick auf „Vertrag abschließen“ führen Sie die Vertragserstellung durch.
+Sie erhalten einen Link zur Vertragsunterzeichnung per E-Mail und eine erste Rechnung.
+Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das Lager und Ihre Box gewährt.`,
+	reservationId: 'Reservierungs-ID',
+	expires: 'Läuft ab',
+	box: 'Lagerraum',
+	startRentDate: 'Beginn der Miete',
+	endRentDate: 'Enddatum der Miete',
+	initialPayment: 'Anzahlung',
+	enterIntoContract: 'Vertrag eingehen'
 };

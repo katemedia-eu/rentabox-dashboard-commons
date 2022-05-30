@@ -82,5 +82,16 @@ export default {
 	andPayLater: 'Und später bezahlen',
 	payLaterDesctiption: 'You will find invoice in your account',
 	contactSource: 'How did you find out about us',
-	reasonForStorage: 'Storage Reason'
+	reasonForStorage: 'Storage Reason',
+	areYouSureToCreateAContract: 'Are you sure you want to create a contract?',
+	enterIntoContractExplanation: `By clicking "Enter into contract" you will perform contract creation.
+		You will receive contract signment link to your email and initial invoice.
+		After you pay invoice whole access to stock and your box will be granted to you.`,
+	reservationId: 'Reservation ID',
+	expires: 'Expires',
+	box: 'Box',
+	startRentDate: 'Start rent date',
+	endRentDate: 'End rent date',
+	initialPayment: 'Initial payment',
+	enterIntoContract: 'Enter into contract'
 };
