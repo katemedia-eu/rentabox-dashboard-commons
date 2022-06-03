@@ -99,5 +99,6 @@ export default {
 	rentalCost: 'Rental cost',
 	insurance: 'Insurance amount',
 	deposit: 'Deposit',
-	vatAmount: 'VAT'
+	vatAmount: 'VAT',
+	boxLeaseAgreement: 'Box lease agreement with Rentabox LLC'
 };

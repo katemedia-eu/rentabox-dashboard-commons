@@ -97,5 +97,6 @@ export default {
 	rentalCost: 'Стоимость аренда',
 	insurance: 'Страховка',
 	deposit: 'Депозит',
-	vatAmount: 'НДС'
+	vatAmount: 'НДС',
+	boxLeaseAgreement: 'Договор аренды бокса с ООО Рентабокс'
 };

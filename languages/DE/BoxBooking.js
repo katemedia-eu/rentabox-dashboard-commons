@@ -99,5 +99,6 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	rentalCost: 'Mietkosten',
 	insurance: 'Versicherungsbetrag',
 	deposit: 'Versprechen',
-	vatAmount: 'MwSt'
+	vatAmount: 'MwSt',
+	boxLeaseAgreement: 'Box-Leasingvertrag mit Rentabox LLC'
 };
