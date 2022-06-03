@@ -39,7 +39,8 @@ export default {
 	sizesMeta: {
 		s: 'Household items that take up about 30 m² or archive up to 300 files',
 		l: 'Household items that take up about 50 m² or archive up to 500 files',
-		xl: 'Household items that take up about 80 m² or archive up to 800 files'
+		m: 'Household items that take up about 80 m² or archive up to 800 files',
+		xl: 'Household items that take up about 100 m² or archive up to 1000 files'
 	},
 	englishWordOr: 'or',
 	yourChoice: 'Your choice',
@@ -98,5 +99,6 @@ export default {
 	rentalCost: 'Rental cost',
 	insurance: 'Insurance amount',
 	deposit: 'Deposit',
-	vatAmount: 'VAT'
+	vatAmount: 'VAT',
+	boxLeaseAgreement: 'Box lease agreement with Rentabox LLC'
 };
