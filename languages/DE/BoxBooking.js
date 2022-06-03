@@ -39,7 +39,8 @@ export default {
 	sizesMeta: {
 		s: 'Hausrat, der etwa 30 m² einnimmt oder Archiv bis 300 Aktenordner',
 		l: 'Hausrat, der etwa 50 m² einnimmt oder Archiv bis 500 Aktenordner',
-		xl: 'Hausrat, der etwa 80 m² einnimmt oder Archiv bis 800 Aktenordner'
+		m: 'Hausrat, der etwa 80 m² einnimmt oder Archiv bis 800 Aktenordner',
+		xl: 'Hausrat, der etwa 100 m² einnimmt oder Archiv bis 1000 Aktenordner'
 	},
 	englishWordOr: 'oder',
 	yourChoice: 'Ausgewählt',
