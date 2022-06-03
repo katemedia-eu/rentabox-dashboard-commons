@@ -77,5 +77,7 @@ export default {
 	stockId_sm: 'ID склада SM',
 	save: 'Сохранить',
 	boxesMapConstructor: 'Конструктор расположения боксов',
-	accountBalance: 'Баланс счёта'
+	accountBalance: 'Баланс счёта',
+	addFloor: 'Добавить этаж',
+	floor: 'Этаж'
 };

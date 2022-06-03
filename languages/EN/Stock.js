@@ -77,5 +77,7 @@ export default {
 	stockId_sm: 'Stock ID SM',
 	save: 'Save',
 	boxesMapConstructor: 'Boxes map constructor',
-	accountBalance: 'Account balance'
+	accountBalance: 'Account balance',
+	addFloor: 'Add floor',
+	floor: 'Floor'
 };
