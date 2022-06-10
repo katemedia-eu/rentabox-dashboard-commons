@@ -7,6 +7,6 @@ export default {
 	cleanFiles: 'Очистить файлы',
 	update: 'Обновить',
 	remove: 'Убрать',
-	passportPhoto: 'Фото паспорта',
-	selfieWithPassport: 'Cелфи с паспортом'
+	passportPhoto: 'Фото паспорта (последняя страница)',
+	selfieWithPassport: 'Cелфи с паспортом (последняя страница)'
 };
