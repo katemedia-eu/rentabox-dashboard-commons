@@ -79,5 +79,9 @@ export default {
 	boxesMapConstructor: 'Boxes map constructor',
 	accountBalance: 'Account balance',
 	addFloor: 'Add floor',
-	floor: 'Floor'
+	floor: 'Floor',
+	height: 'Height',
+	width: 'Width',
+	depth: 'Depth',
+	square: 'Square'
 };

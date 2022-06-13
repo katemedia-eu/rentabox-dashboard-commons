@@ -79,5 +79,9 @@ export default {
 	boxesMapConstructor: 'Конструктор расположения боксов',
 	accountBalance: 'Баланс счёта',
 	addFloor: 'Добавить этаж',
-	floor: 'Этаж'
+	floor: 'Этаж',
+	height: 'Ширина',
+	width: 'Длина',
+	depth: 'Глубина',
+	square: 'Площадь'
 };

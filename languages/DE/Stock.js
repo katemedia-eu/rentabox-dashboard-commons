@@ -72,5 +72,9 @@ export default {
 	stockId_sm: 'Standorte ID SM',
 	save: 'Speichern',
 	boxesMapConstructor: 'Boxen Kartenkonstruktor',
-	accountBalance: 'Kontostand'
+	accountBalance: 'Kontostand',
+	height: 'Höhe',
+	width: 'Breite',
+	depth: 'Tiefe',
+	square: 'Quadrat'
 };
