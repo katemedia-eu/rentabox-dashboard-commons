@@ -15,6 +15,7 @@ export default {
 	totalToPay: 'Total to pay',
 	includedInsurance: 'incl. insurance',
 	inclVAT: 'incl. VAT',
+	notInclVAT: 'Without VAT',
 	toBookABox: 'In order to book a box, please,',
 	authorize: 'Authorize',
 	iAgree: 'By clicking Confirm, you accept the following documents:',

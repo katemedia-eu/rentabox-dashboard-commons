@@ -15,6 +15,7 @@ export default {
 	totalToPay: 'Итого к оплате',
 	includedInsurance: 'Включая страховой взнос',
 	inclVAT: 'Включая НДС',
+	notInclVAT: 'Без НДС',
 	toBookABox: 'Чтобы арендовать бокс, пожалуйста,',
 	authorize: 'Авторизуйтесь',
 	iAgree: 'Нажимая Подтвердить, Вы принимаете следующие документы:',

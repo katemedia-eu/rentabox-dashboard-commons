@@ -15,6 +15,7 @@ export default {
 	totalToPay: 'Summe zu zahlen',
 	includedInsurance: 'inkl. Vers.',
 	inclVAT: 'inkl. MwSt.',
+	notInclVAT: 'MwSt nicht enthalten',
 	toBookABox: 'Um eine Lagerraum zu buchen, bitte,',
 	authorize: 'Anmelden',
 	iAgree: 'Durch Klicken auf Bestätigen akzeptieren Sie die folgenden Dokumente:',
