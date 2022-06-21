@@ -7,7 +7,7 @@ export default {
 	wait: 'Warten Sie, bitte ...',
 	lastUpdate: 'letzte Aktualisierung',
 	noUpdates: 'keine Aktualisierungen',
-	choose: 'Auswählen...',
+	choose: 'Auswählen',
 	currency: 'Währung',
 	all: 'alle',
 	settings: 'Einstellungen',

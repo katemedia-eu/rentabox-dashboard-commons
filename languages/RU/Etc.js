@@ -7,7 +7,7 @@ export default {
 	wait: 'Подождите...',
 	lastUpdate: 'Посл. обновл.',
 	noUpdates: 'Обновлений не было',
-	choose: 'Выберите...',
+	choose: 'Выберите',
 	currency: 'Валюта',
 	all: 'Все',
 	settings: 'Настройки',

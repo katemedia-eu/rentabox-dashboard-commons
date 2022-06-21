@@ -7,7 +7,7 @@ export default {
 	wait: 'Wait ...',
 	lastUpdate: 'Last updated. ',
 	noUpdates: 'There were no updates',
-	choose: 'Select ...',
+	choose: 'Select',
 	currency: 'Currency',
 	all: 'All',
 	settings: 'Settings',
