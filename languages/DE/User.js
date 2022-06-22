@@ -11,7 +11,7 @@ export default {
 	country: 'Land',
 	phone: 'Telefonnummer',
 	city: 'Stadt',
-	address: 'Adresse',
+	address: 'Straße',
 	zip: 'Postleitzahl',
 	company: 'Firmenname',
 	role: 'Rolle',
@@ -47,7 +47,7 @@ export default {
 	legal: 'Unternehmen',
 	companyName: 'Firmenname',
 	registrationNumber: 'Steuernummer',
-	companyRequired: 'Firmenname',
+	companyRequired: 'Ihren Firmennamen ein',
 	client: 'Kunde',
 	currentClient: 'Der aktuelle Kunde',
 	goToContracts: 'Zu Kontrakten übergehen',
@@ -66,5 +66,6 @@ export default {
 	importUsers: 'Benutzer importieren',
 	createdAfter: 'Erstellt nach',
 	importUsersByDate: 'Benutzer nach Datum importieren',
-	otherContacts: 'Andere Kontakte'
+	otherContacts: 'Andere Kontakte',
+	addressRequired: 'Geben Sie Ihre Straße ein',
 };
