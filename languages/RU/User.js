@@ -68,5 +68,6 @@ export default {
 	importUsers: 'Импорт пользователей',
 	createdAfter: 'Созданых после',
 	importUsersByDate: 'Импорт пользователей по дате',
-	otherContacts: 'Другие способы связи'
+	otherContacts: 'Другие способы связи',
+	addressRequired: 'Обязательно',
 };

@@ -47,7 +47,6 @@ export default {
 	legal: 'Unternehmen',
 	companyName: 'Firmenname',
 	registrationNumber: 'Steuernummer',
-	companyRequired: 'Ihren Firmennamen ein',
 	client: 'Kunde',
 	currentClient: 'Der aktuelle Kunde',
 	goToContracts: 'Zu Kontrakten übergehen',
@@ -67,5 +66,11 @@ export default {
 	createdAfter: 'Erstellt nach',
 	importUsersByDate: 'Benutzer nach Datum importieren',
 	otherContacts: 'Andere Kontakte',
+	companyRequired: 'Geben Sie Ihren Firmennamen ein',
+	zipRequired: 'Geben Sie Ihre Postleitzahl ein',
 	addressRequired: 'Geben Sie Ihre Straße ein',
+	cityRequired: 'Geben Sie Ihre Stadt ein',
+	phoneRequired: 'Geben Sie Ihre Telefonnummer ein',
+	emailRequired: 'Geben Sie Ihre E-Mailadresse ein',
+	houseRequired: 'Geben Sie Ihre Hausnummer ein'
 };

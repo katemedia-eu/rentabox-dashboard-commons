@@ -4,11 +4,11 @@ export default {
 	enterValue: (fieldName, languageSchema) => `Geben Sie ${languageSchema[fieldName] || fieldName}`,
 	outOfBounds: (fieldName, languageSchema, min, max) =>
 		`Die ${_.upperFirst(languageSchema[fieldName] || fieldName)} muss zwischen ${min} und ${max} zeichen`,
-	invalidField: (fieldName, languageSchema) => `Geben Sie treu ${languageSchema[fieldName] || fieldName}`,
+	invalidField: (fieldName, languageSchema) => `Bitte geben Sie die richtige ${languageSchema[fieldName] || fieldName} ein`,
 	invalidCharacters: () => 'Sie haben ein ungültiges Zeichen eingegeben',
 	chooseField: (fieldName, languageSchema) => `Auswählen ${languageSchema[fieldName] || fieldName}`,
-	required: () => 'Unbedingt',
+	required: (fieldName) => `${fieldName}`,
 	validatePhone: (min, max) =>
-		`Die Telefonnummer muss von ${min} bis ${max} Zeichen erhalten`,
+		`Ihre Telefonnummer muss ${min} bis ${max} Zeichen enthalten`,
 	validatePasswordConfirmation: () => 'Die angegeben Passwörtern stimmen nicht überein',
 };

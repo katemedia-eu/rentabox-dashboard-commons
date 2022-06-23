@@ -66,5 +66,6 @@ export default {
 	importUsers: 'Import Users',
 	createdAfter: 'Created after',
 	importUsersByDate: 'Import users by date',
-	otherContacts: 'Other contacts'
+	otherContacts: 'Other contacts',
+	addressRequired: 'Required',
 };
