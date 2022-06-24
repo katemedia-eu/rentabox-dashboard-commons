@@ -72,5 +72,6 @@ export default {
 	cityRequired: 'Geben Sie Ihre Stadt ein',
 	phoneRequired: 'Geben Sie Ihre Telefonnummer ein',
 	emailRequired: 'Geben Sie Ihre E-Mailadresse ein',
-	houseRequired: 'Geben Sie Ihre Hausnummer ein'
+	houseRequired: 'Geben Sie Ihre Hausnummer ein',
+	pinCode: 'Geheimzahl'
 };

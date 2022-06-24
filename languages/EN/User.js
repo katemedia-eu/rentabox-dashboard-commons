@@ -68,4 +68,5 @@ export default {
 	importUsersByDate: 'Import users by date',
 	otherContacts: 'Other contacts',
 	addressRequired: 'Required',
+	pinCode: 'Pin code'
 };
