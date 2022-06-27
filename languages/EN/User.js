@@ -68,4 +68,7 @@ export default {
 	importUsersByDate: 'Import users by date',
 	otherContacts: 'Other contacts',
 	addressRequired: 'Required',
+	salutation: 'Salutation',
+	man: 'Mr.',
+	woman: 'Mrs.'
 };
