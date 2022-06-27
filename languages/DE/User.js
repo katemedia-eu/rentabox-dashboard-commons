@@ -75,5 +75,6 @@ export default {
 	houseRequired: 'Geben Sie Ihre Hausnummer ein',
 	salutation: 'Anrede',
 	man: 'Herr',
-	woman: 'Frau'
+	woman: 'Frau',
+	pinCode: 'Geheimzahl'
 };

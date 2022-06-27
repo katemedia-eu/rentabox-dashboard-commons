@@ -70,5 +70,6 @@ export default {
 	addressRequired: 'Required',
 	salutation: 'Salutation',
 	man: 'Mr.',
-	woman: 'Mrs.'
+	woman: 'Mrs.',
+	pinCode: 'Pin code'
 };

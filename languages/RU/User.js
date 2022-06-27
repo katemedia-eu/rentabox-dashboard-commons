@@ -70,4 +70,5 @@ export default {
 	importUsersByDate: 'Импорт пользователей по дате',
 	otherContacts: 'Другие способы связи',
 	addressRequired: 'Обязательно',
+	pinCode: 'Пин код'
 };
