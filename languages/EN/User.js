@@ -71,5 +71,6 @@ export default {
 	salutation: 'Salutation',
 	man: 'Mr.',
 	woman: 'Mrs.',
-	pinCode: 'Pin code'
+	pinCode: 'Pin code',
+	houseRequired: 'Required',
 };
