@@ -23,6 +23,7 @@ export default {
 	6011: 'Lock number is already used',
 	6013: 'Bad lock id configuration',
 
+	7000: 'No actual payment',
 	7001: 'Your profile is not verified. You cant perform this action',
 
 	9000: 'User with such email already exists.',

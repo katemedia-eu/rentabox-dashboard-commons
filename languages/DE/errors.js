@@ -23,6 +23,7 @@ export default {
 	6011: 'Die Schlossnummer wird bereits verwendet',
 	6013: 'Konfiguration einer falschen Verriegelung',
 
+	7000: 'Keine tatsächliche Zahlung',
 	7001: 'Ihr Account wurde nicht bestätigt. Sie dürfen diese Handlung nicht vollziehen',
 
 	9000: 'Ein Nutzer mit angegebener E-Mail-Adresse existiert bereits.',
