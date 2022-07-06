@@ -16,6 +16,7 @@ import SignUp from './SignUp';
 import Payment from './Payment';
 import Notification from './Notification';
 import Client from './Client';
+import Synchronization from './Synchronization';
 
 export default {
 	LogIn,
@@ -36,4 +37,5 @@ export default {
 	Payment,
 	Notification,
 	Client,
+	Synchronization
 };
