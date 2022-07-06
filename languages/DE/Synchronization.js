@@ -1,5 +1,5 @@
 export default {
-	message: 'Please click the Synchronize button to add new accounts from SM to our system!',
-	selector: 'Select a Stock',
-	button: 'Synchronize'
+	message: 'Bitte klicken Sie auf die Schaltfläche Synchronisieren, um neue Konten von SM zu unserem System hinzuzufügen!',
+	selector: 'Wählen Sie eine Aktie aus',
+	button: 'Synchronisieren'
 };
