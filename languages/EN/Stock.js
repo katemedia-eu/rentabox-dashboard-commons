@@ -83,5 +83,6 @@ export default {
 	height: 'Height',
 	width: 'Width',
 	depth: 'Depth',
-	square: 'Square'
+	square: 'Square',
+	areYouSureYouWantToRun: 'Are you sure you want to run '
 };

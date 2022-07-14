@@ -22,6 +22,7 @@ export default {
 	6010: 'Sorry, there is no available boxes with specified params',
 	6011: 'Lock number is already used',
 	6013: 'Bad lock id configuration',
+	6014: 'You have not agreed with contract offer and it\'s applications.',
 
 	7000: 'No actual payment',
 	7001: 'Your profile is not verified. You cant perform this action',

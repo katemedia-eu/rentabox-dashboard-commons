@@ -83,5 +83,6 @@ export default {
 	height: 'Ширина',
 	width: 'Длина',
 	depth: 'Глубина',
-	square: 'Площадь'
+	square: 'Площадь',
+	areYouSureYouWantToRun: 'Вы уверены, что хотите выполнить '
 };

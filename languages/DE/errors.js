@@ -22,6 +22,8 @@ export default {
 	6010: 'Entschuldigung, es gibt keine passenden Lagerräume mit den erforderlichen Abmessungen',
 	6011: 'Die Schlossnummer wird bereits verwendet',
 	6013: 'Konfiguration einer falschen Verriegelung',
+	6014: 'Sie haben dem Vertragsangebot und seinen Anwendungen nicht zugestimmt.',
+
 
 	7000: 'Keine tatsächliche Zahlung',
 	7001: 'Ihr Account wurde nicht bestätigt. Sie dürfen diese Handlung nicht vollziehen',

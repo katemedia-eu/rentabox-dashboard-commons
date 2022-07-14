@@ -76,5 +76,6 @@ export default {
 	height: 'Höhe',
 	width: 'Breite',
 	depth: 'Tiefe',
-	square: 'Quadrat'
+	square: 'Quadrat',
+	areYouSureYouWantToRun: 'Sind Sie sicher, dass Sie ausführen möchten '
 };
