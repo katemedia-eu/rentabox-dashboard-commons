@@ -10,7 +10,7 @@ export default {
 	book: 'Buchung',
 	tryPaymentLater: 'Oops, etwas ist schief gelaufen. Überprüfen Sie bitte Ihre Daten und probieren Sie es später noch einmal. ',
 	errorReason: 'Fehlerbeschreibung',
-	checkEmail: 'Prüfen Sie bitte Ihre E-Mails und unterschreiben Sie den Vertrag. Er kann sich im Spam Ordner befinden.',
+	checkEmail: 'Bitte überprüfen Sie Ihre E-Mail, wir haben eine Bestätigung gesendet. Er kann sich im Spam Ordner befinden.',
 	includeVAT: 'inkl. MwSt',
 	vat: 'MwSt',
 	pay: 'Bezahlen',

@@ -10,7 +10,7 @@ export default {
 	book: 'Booking',
 	tryPaymentLater: 'Oops, something went wrong. <br /> Please, check your data and try again later.',
 	errorReason: 'Error reason',
-	checkEmail: 'Please, check your e-mail and sign a contract. It can be inside spam folder',
+	checkEmail: 'Please, check your e-mail: we have sent a confirmation. It can be inside spam folder',
 	includeVAT: 'Incl. VAT',
 	vat: 'VAT',
 	pay: 'Pay',
