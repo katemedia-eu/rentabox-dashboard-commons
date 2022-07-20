@@ -69,6 +69,7 @@ export default {
 	legalUsersVATRate: 'VAT for legal users',
 	individualUsersVATRate: 'VAT for individual users',
 	wifiPassword: 'Wi-Fi password',
+	showWifiPassword: 'Show Wi-Fi password',
 	accessDenied: 'Access Denied',
 	accessAllowed: 'Access Allowed',
 	coordinates: 'Сoordinates',

@@ -69,6 +69,7 @@ export default {
 	legalUsersVATRate: 'НДС для юридических лиц',
 	individualUsersVATRate: 'НДС для физических лиц',
 	wifiPassword: 'Wi-Fi пароль',
+	showWifiPassword: 'Показать Wi-Fi пароль',
 	accessDenied: 'Доступ запрещён',
 	accessAllowed: 'Доступ разрешён',
 	coordinates: 'Координаты',

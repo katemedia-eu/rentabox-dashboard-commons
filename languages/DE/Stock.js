@@ -64,6 +64,7 @@ export default {
 	legalUsersVATRate: 'MwSt. (Unternehmen)',
 	individualUsersVATRate: 'MwSt. (Privatpersonen)',
 	wifiPassword: 'Wi-Fi passwort',
+	showWifiPassword: 'Wi-Fi passwort anzeigen',
 	accessDenied: 'Der Zugang ist verwehrt',
 	accessAllowed: 'Der Zugang ist erlaubt',
 	coordinates: 'Koordinaten',
