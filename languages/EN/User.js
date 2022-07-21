@@ -57,9 +57,6 @@ export default {
 	areYouSureYouWantToChangePassword: 'Are you sure, you want to change password?',
 	changePassword: 'Change password',
 	isEighteenAge: 'I am 18+ years old.',
-	houseNumber: 'House',
-	entranceNumber: 'Stairs',
-	apartmentNumber: 'Door',
 	loginAsUser: 'Login as user',
 	created: 'Date of creation',
 	unknownDate: 'Update date unknown',
@@ -71,6 +68,5 @@ export default {
 	salutation: 'Salutation',
 	man: 'Mr.',
 	woman: 'Mrs.',
-	pinCode: 'Pin code',
-	houseRequired: 'Required',
+	pinCode: 'Pin code'
 };
