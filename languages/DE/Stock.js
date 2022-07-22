@@ -78,5 +78,7 @@ export default {
 	width: 'Breite',
 	depth: 'Tiefe',
 	square: 'Quadrat',
-	areYouSureYouWantToRun: 'Sind Sie sicher, dass Sie ausführen möchten '
+	areYouSureYouWantToRun: 'Sind Sie sicher, dass Sie ausführen möchten ',
+	openingTime: 'Öffnungszeit',
+	closingTime: 'Geschäftsschluss'
 };

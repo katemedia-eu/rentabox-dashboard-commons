@@ -85,5 +85,7 @@ export default {
 	width: 'Длина',
 	depth: 'Глубина',
 	square: 'Площадь',
-	areYouSureYouWantToRun: 'Вы уверены, что хотите выполнить '
+	areYouSureYouWantToRun: 'Вы уверены, что хотите выполнить ',
+	openingTime: 'Время открытия',
+	closingTime: 'Время закрытия'
 };
