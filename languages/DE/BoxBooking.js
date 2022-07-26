@@ -38,10 +38,10 @@ export default {
 	reserveViaBankTransfer: 'Buchen Sie per Banküberweisung',
 	iHaveReadDocsAndAgree: 'Ich habe folgende Vertragszusätze gelesen und akzeptiere diese vollinhaltlich.',
 	sizesMeta: {
-		s: 'Hausrat, der etwa 30 m² einnimmt oder Archiv bis 300 Aktenordner',
-		l: 'Hausrat, der etwa 50 m² einnimmt oder Archiv bis 500 Aktenordner',
-		m: 'Hausrat, der etwa 80 m² einnimmt oder Archiv bis 800 Aktenordner',
-		xl: 'Hausrat, der etwa 100 m² einnimmt oder Archiv bis 1000 Aktenordner'
+		s: 'Ausreichend für den Hausrat bis zu 50 m² oder für das Archiv bis zu 80 Kartons',
+		l: 'Ausreichend für den Hausrat von 55 m² bis 100 m² oder für das Archiv von 85 bis 160 Kartons',
+		m: 'Ausreichend für den Hausrat von 100 m² bis 200 m² oder für das Archiv von 165 bis 320 Kartons',
+		xl: 'Ausreichend für den Hausrat von 200 m² bis 300 m² oder für das Archiv von 330 bis 480 Kartons'
 	},
 	englishWordOr: 'oder',
 	yourChoice: 'Ausgewählt',
@@ -65,7 +65,7 @@ export default {
 	insuranceWillBeAdded: 'zzgl Vers',
 	automaticPaymentsText: 'Automatische monatliche Zahlung',
 	searchHeader: 'Diese Karte durchsuchen',
-	cityOrStockName: 'Standort oder des Lagers',
+	cityOrStockName: 'Unsere Standorte',
 	sendPhotos: 'Foto senden',
 	uploadDocsPhoto: 'Dokumentenfotos hochladen',
 	bookingByTheAdministrator: 'Eine Buchung durch den Administrator ist untersagt! Melden Sie sich als Benutzer an.',

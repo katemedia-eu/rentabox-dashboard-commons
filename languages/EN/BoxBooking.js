@@ -38,10 +38,10 @@ export default {
 	reserveViaBankTransfer: 'Book using bank transfer',
 	iHaveReadDocsAndAgree: 'I have read the following additions to the contract and accept them in full.',
 	sizesMeta: {
-		s: 'Household items that take up about 30 m² or archive up to 300 files',
-		l: 'Household items that take up about 50 m² or archive up to 500 files',
-		m: 'Household items that take up about 80 m² or archive up to 800 files',
-		xl: 'Household items that take up about 100 m² or archive up to 1000 files'
+		s: 'Sufficient for household items up to 50 m² or for the archive up to 80 boxes',
+		l: 'Sufficient for household items from 55 m² to 100 m² or for the archive from 85 to 160 boxes',
+		m: 'Sufficient for household items from 100 m² to 200 m² or for the archive from 165 to 320 boxes',
+		xl: 'Sufficient for household goods from 200 m² to 300 m² or for the archive from 330 to 480 boxes'
 	},
 	englishWordOr: 'or',
 	yourChoice: 'Your choice',
