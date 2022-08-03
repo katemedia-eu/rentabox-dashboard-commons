@@ -89,7 +89,7 @@ export default {
 	enterIntoContractExplanation: `By clicking "Enter into contract" you will perform contract creation.
 		You will receive contract signment link to your email and initial invoice.
 		After you pay invoice whole access to stock and your box will be granted to you.`,
-	reservationId: 'Reservation ID',
+	reservationId: 'Reservation',
 	expires: 'Expires',
 	box: 'Box',
 	startRentDate: 'Start rent date',

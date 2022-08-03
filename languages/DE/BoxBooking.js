@@ -89,7 +89,7 @@ export default {
 	enterIntoContractExplanation: `Mit Klick auf „Vertrag abschließen“ führen Sie die Vertragserstellung durch.
 Sie erhalten einen Link zur Vertragsunterzeichnung per E-Mail und eine erste Rechnung.
 Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das Lager und Ihre Box gewährt.`,
-	reservationId: 'Reservierungs-ID',
+	reservationId: 'Reservierung',
 	expires: 'Läuft ab',
 	box: 'Lagerraum',
 	startRentDate: 'Beginn der Miete',
