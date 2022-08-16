@@ -5,5 +5,6 @@ export default {
 	checkEmail: email => `Please, check your email ${email}`,
 	passportPhoto: 'Passport photo (last page)',
 	selfieWithPassport: 'Your selfie with last page of the passport',
-	legalDocumentPhoto: 'Photo of legal entry registration'
+	legalDocumentPhoto: 'Photo of legal entry registration',
+	remove: 'Remove'
 };
