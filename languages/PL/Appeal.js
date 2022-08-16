@@ -1,0 +1,16 @@
+export default {
+	appealsDisplayed: 'Apelacja wyświetlona',
+	appealStatus: 'Status apelacji',
+	waitingForHandle: 'Oczekiwanie',
+	handled: 'Obsługiwane',
+	name: 'Nazwa',
+	contactNumber: 'Numer telefonu',
+	email: 'Email',
+	type: 'Typ',
+	status: 'Status',
+	date: 'Data',
+	messageText: 'Tekst apelacji',
+	handle: 'uchwyt',
+	areYouSureAppealIsHandled: 'Czy jesteś pewien, że apelacja została rozpatrzona?',
+	appeals: 'Apelacje',
+};
