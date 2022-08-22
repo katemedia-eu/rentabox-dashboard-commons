@@ -87,5 +87,6 @@ export default {
 	square: 'Площадь',
 	areYouSureYouWantToRun: 'Вы уверены, что хотите выполнить ',
 	openingTime: 'Время открытия',
-	closingTime: 'Время закрытия'
+	closingTime: 'Время закрытия',
+	wifiNetworkName: 'Имя сети Wi-Fi'
 };

@@ -83,5 +83,6 @@ export default {
 	height: 'Wysokość',
 	width: 'Szerokość',
 	depth: 'Głębokość',
-	square: 'Kwadrat'
+	square: 'Kwadrat',
+	wifiNetworkName: 'Nazwa sieci Wi-Fi'
 };

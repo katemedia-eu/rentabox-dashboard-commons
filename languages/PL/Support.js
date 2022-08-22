@@ -1,10 +1,10 @@
 export default {
-	leaveAppeal: 'Zostaw wiadomość o odwołaniu',
+	leaveAppeal: 'Zostaw wiadomość',
 	requestACallback: 'Oddzwoń',
 	email: 'Email',
-	phone: 'Telefon kontaktowy',
+	phone: 'Numer telefonu',
 	name: 'Imię',
-	appealMessage: 'Komunikat dotyczący odwołania',
+	appealMessage: 'Wiadomość',
 	callback: 'Oddzwoń do mnie',
 	enterYourMessage: 'Wpisz swoją wiadomość',
 	invalidCharacters: 'Nieprawidłowe znaki',

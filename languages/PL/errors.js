@@ -27,7 +27,7 @@ export default {
 	7001: 'Twój profil nie jest zweryfikowany. Nie możesz wykonać tej akcji',
 
 	9000: 'Użytkownik z takim adresem e-mail już istnieje.',
-	9001: 'Dostarczone dane są nieprawidłowe.',
+	9001: 'Niepoprawne dane.',
 	9003: 'Zaloguj się, proszę.',
 
 	unrecognized: 'Coś poszło nie tak. Proszę spróbować ponownie później.',

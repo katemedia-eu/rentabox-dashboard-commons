@@ -1,7 +1,7 @@
 import _ from 'lodash';
 
 export default {
-	enterValue: (fieldName, languageSchema) => `Enter ${languageSchema[fieldName] || fieldName}`,
+	enterValue: (fieldName, languageSchema) => `Wprowadź ${languageSchema[fieldName] || fieldName}`,
 	outOfBounds: (fieldName, languageSchema, min, max) =>
 		`${_.upperFirst(languageSchema[fieldName] || fieldName)} musi być pomiędzy ${min} a ${max} znaków`,
 	invalidField: (fieldName, languageSchema) => `Wybierz poprawnie ${languageSchema[fieldName] || fieldName}`,

@@ -15,7 +15,7 @@ export default {
 	reset: 'Reset',
 	from: 'od',
 	to: 'do',
-	send: 'Wysłany',
+	send: 'Wyślij',
 	noItems: 'List jest pusty',
 	areYouSureYouWantToSaveChanges: 'Czy na pewno chcesz zapisać zmiany?',
 	searchPlaceholder: 'Wyszukiwanie...',

@@ -80,5 +80,6 @@ export default {
 	square: 'Quadrat',
 	areYouSureYouWantToRun: 'Sind Sie sicher, dass Sie ausführen möchten ',
 	openingTime: 'Öffnungszeit',
-	closingTime: 'Geschäftsschluss'
+	closingTime: 'Geschäftsschluss',
+	wifiNetworkName: 'WLAN-Netzwerkname'
 };
