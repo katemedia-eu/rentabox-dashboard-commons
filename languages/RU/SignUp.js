@@ -7,8 +7,8 @@ export default {
 	cleanFiles: 'Очистить файлы',
 	update: 'Обновить',
 	remove: 'Убрать',
-	passportPhoto: 'Фото паспорта (последняя страница)',
-	selfieWithPassport: 'Cелфи с паспортом (последняя страница)',
+	passportPhoto: 'Фото главного разворота паспорта',
+	selfieWithPassport: 'Фото селфи с главным разворотом паспорта',
 	legalDocumentPhoto: 'Фото свидетельства ОГРН',
-	addressDocumentPhoto: 'Фото страницы прописки в паспорте'
+	addressDocumentPhoto: 'Фото регистрации'
 };
