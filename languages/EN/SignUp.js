@@ -6,5 +6,6 @@ export default {
 	passportPhoto: 'Passport photo (last page)',
 	selfieWithPassport: 'Your selfie with last page of the passport',
 	legalDocumentPhoto: 'Photo of legal entry registration',
-	remove: 'Remove'
+	remove: 'Remove',
+	addressDocumentPhoto: 'Address confirmation photo'
 };

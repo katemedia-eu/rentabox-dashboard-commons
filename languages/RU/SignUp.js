@@ -9,5 +9,6 @@ export default {
 	remove: 'Убрать',
 	passportPhoto: 'Фото паспорта (последняя страница)',
 	selfieWithPassport: 'Cелфи с паспортом (последняя страница)',
-	legalDocumentPhoto: 'Фото свидетельства ОГРН'
+	legalDocumentPhoto: 'Фото свидетельства ОГРН',
+	addressDocumentPhoto: 'Фото страницы прописки в паспорте'
 };
