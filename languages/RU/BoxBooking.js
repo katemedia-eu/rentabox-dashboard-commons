@@ -99,5 +99,9 @@ export default {
 	insurance: 'Страховка',
 	deposit: 'Депозит',
 	vatAmount: 'НДС',
-	boxLeaseAgreement: 'Договор аренды бокса с ООО Рентабокс'
+	boxLeaseAgreement: 'Договор аренды бокса с ООО Рентабокс',
+	mapAndList: 'Карта & список',
+	map: 'Карта',
+	list: 'Список',
+	step3SelectABox: 'Шаг 3. Выберите бокс',
 };

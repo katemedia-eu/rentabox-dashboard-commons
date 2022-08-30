@@ -101,5 +101,9 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	insurance: 'Versicherungsbetrag',
 	deposit: 'Versprechen',
 	vatAmount: 'MwSt',
-	boxLeaseAgreement: 'Box-Leasingvertrag mit Rentabox LLC'
+	boxLeaseAgreement: 'Box-Leasingvertrag mit Rentabox LLC',
+	mapAndList: 'Karte & Liste',
+	map: 'Karte',
+	list: 'Liste',
+	step3SelectABox: 'Schritt 3. Wählen Sie einen Lagerraum',
 };

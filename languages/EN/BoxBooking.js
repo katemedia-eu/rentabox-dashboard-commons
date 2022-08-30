@@ -101,5 +101,9 @@ export default {
 	insurance: 'Insurance amount',
 	deposit: 'Deposit',
 	vatAmount: 'VAT',
-	boxLeaseAgreement: 'Box lease agreement with Rentabox LLC'
+	boxLeaseAgreement: 'Box lease agreement with Rentabox LLC',
+	mapAndList: 'Map & list',
+	map: 'Map',
+	list: 'List',
+	step3SelectABox: 'Step 3. Select a box',
 };
