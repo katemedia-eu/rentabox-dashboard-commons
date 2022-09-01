@@ -45,4 +45,8 @@ export default {
 	date: 'Date',
 	unitAccess: 'Unit access',
 	boxsize: 'Box size',
+	download: 'Open',
+	insuranceCoverageAmount: 'Insurance coverage amount',
+	insuranceAmount: 'Insurance amount',
+	regularPayment: 'Regular payment'
 };

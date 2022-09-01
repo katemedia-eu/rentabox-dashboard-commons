@@ -45,4 +45,8 @@ export default {
 	date: 'Data',
 	unitAccess: 'Dostęp do urządzenia',
 	boxsize: 'Rozmiar boksu ',
+	download: 'Ściągnij',
+	insuranceCoverageAmount: 'Kwota ubezpieczenia',
+	insuranceAmount: 'Suma ubezpieczenia',
+	regularPayment: 'Regularna płatność'
 };

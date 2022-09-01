@@ -41,5 +41,9 @@ export default {
 	transactions: 'Tранзакции',
 	date: 'Дата',
 	unitAccess: 'Доступ к устройству',
-	boxsize: 'Размер бокса'
+	boxsize: 'Размер бокса',
+	download: 'Скачать',
+	insuranceCoverageAmount: 'Сумма страхового покрытия',
+	insuranceAmount: 'Страховой взнос',
+	regularPayment: 'Регулярный платеж'
 };

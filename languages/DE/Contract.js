@@ -8,7 +8,7 @@ export default {
 	closingContractConition: 'Der Vertrag kann nur dann gekündigt werden, wenn der Kunde den Lagerraum bereitstellt.',
 	square: 'Fläche',
 	period: 'Dauer',
-	startDate: 'Vertragsabschlussdatum',
+	startDate: 'Startdatum',
 	closingDate: 'Vertragsablaufdatum',
 	paidInDays: 'bezahlt für Tage',
 	paymentsFrequency: 'Zahlungen/Monat | mon.',
@@ -42,4 +42,8 @@ export default {
 	date: 'Datum',
 	unitAccess: 'Zugang zur Einheit',
 	boxsize: 'Boxgröße',
+	download: 'Öffen',
+	insuranceCoverageAmount: 'Versicherungssumme',
+	insuranceAmount: 'Versicherungsbetrag',
+	regularPayment: 'Reguläre Monatsmiete'
 };
