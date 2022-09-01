@@ -61,6 +61,7 @@ export default {
 	docsAgreement: 'Einverständniserklärungen',
 	payment: 'Ihre Zahlweise',
 	openEndedContractNote: 'Es handelt sich um einen unbefristeten Vertrag, dieser läuft bis zu deiner Kündigung. Die gewählte Laufzeit stellt deine Kündigungsoption dar.',
+	openEndedContractNoteTopBox: 'Es handelt sich um einen unbefristeten Vertrag mit einer Mindestvertragslaufzeit. Nach Ablauf der Mindestvertragslaufzeit verlängert sich der Vertrag automatisch monatlich, bis dieser mit einer Frist von 14 Tagen gekündigt wird.',
 	back: 'Zurück',
 	insuranceWillBeAdded: 'zzgl Vers',
 	automaticPaymentsText: 'Automatische monatliche Zahlung',
