@@ -84,7 +84,8 @@ export default {
 	reserveOrPay: 'BEZAHLEN',
 	andPayLater: 'Und später bezahlen',
 	payLaterDesctiption: 'Sie erhalten eine Rechnung per Post und können von Ihrem persönlichen Konto bezahlen',
-	contactSource: 'Quelle vom kontakt',
+	contactSource: 'Wie wurden Sie auf uns aufmerksam?',
+	contactSourceDescription: 'Werbeträger',
 	reasonForStorage: 'Aufbewahrungsgrund',
 	areYouSureToCreateAContract: 'Möchten Sie wirklich einen Vertrag erstellen?',
 	enterIntoContractExplanation: `Mit Klick auf „Vertrag abschließen“ führen Sie die Vertragserstellung durch.
@@ -100,7 +101,7 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	details: 'Einzelheiten',
 	rentalCost: 'Mietkosten',
 	insurance: 'Versicherungsbetrag',
-	deposit: 'Versprechen',
+	deposit: 'Kaution',
 	vatAmount: 'MwSt',
 	boxLeaseAgreement: 'Box-Leasingvertrag mit Rentabox LLC',
 	mapAndList: 'Karte & Liste',
