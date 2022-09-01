@@ -36,4 +36,5 @@ export default {
 	stepOne: 'Шаг 1',
 	stepTwo: 'Шаг 2',
 	stepThree: 'Шаг 3',
+	from3rdMonth: 'с 3го месяца'
 };

@@ -35,5 +35,6 @@ export default {
 	or: 'Or',
 	stepOne: 'Step 1',
 	stepTwo: 'Step 2',
-	stepThree: 'Step 3'
+	stepThree: 'Step 3',
+	from3rdMonth: 'from the 3rd month'
 };

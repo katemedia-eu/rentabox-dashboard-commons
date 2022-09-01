@@ -35,5 +35,6 @@ export default {
 	or: 'lub',
 	stepOne: 'Krok 1',
 	stepTwo: 'Krok 2',
-	stepThree: 'Krok 3'
+	stepThree: 'Krok 3',
+	from3rdMonth: 'od 3 miesiąca'
 };
