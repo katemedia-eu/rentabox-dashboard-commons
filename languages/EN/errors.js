@@ -18,7 +18,7 @@ export default {
 	6006: 'Stock is not found',
 	6007: 'This box is placed not in this stock',
 	6008: 'Client IP is required',
-	6009: 'No permission to open stock or box',
+	6009: 'You need to connect to the warehouse Wi-Fi network to open the door',
 	6010: 'Sorry, there is no available boxes with specified params',
 	6011: 'Lock number is already used',
 	6013: 'Bad lock id configuration',

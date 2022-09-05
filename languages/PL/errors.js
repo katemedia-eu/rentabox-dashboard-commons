@@ -18,7 +18,7 @@ export default {
 	6006: 'Magazyn nie został znaleziony',
 	6007: 'Ten boks jest umieszczony nie w tym magazynie',
 	6008: 'Wymagany jest identyfikator klienta',
-	6009: 'Brak pozwolenia na otwarcie magazynu lub boksu',
+	6009: 'Aby otworzyć drzwi, musisz połączyć się z siecią Wi-Fi magazynu',
 	6010: 'Przepraszamy, nie ma dostępnych boksów z podanymi parametrami',
 	6011: 'Numer blokady jest już używany',
 	6013: 'Zła konfiguracja identyfikatora blokady',

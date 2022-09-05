@@ -18,7 +18,7 @@ export default {
 	6006: 'Das Lager wurde nicht gefunden',
 	6007: 'Dieser Lagerraum befindet sich nicht in diesem Lager. Bitte, wählen Sie einen anderen.',
 	6008: 'Die IP-Adresse ist erforderlich',
-	6009: 'Keine Möglichkeit/Erlaubnis den Lagerraum zu öffnen',
+	6009: 'Sie müssen sich mit dem Wi-Fi-Netzwerk des Lagers verbinden, um die Tür zu öffnen',
 	6010: 'Entschuldigung, es gibt keine passenden Lagerräume mit den erforderlichen Abmessungen',
 	6011: 'Die Schlossnummer wird bereits verwendet',
 	6013: 'Konfiguration einer falschen Verriegelung',
