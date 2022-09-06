@@ -70,5 +70,7 @@ export default {
 	pinCode: 'Пин код',
 	legalDocWasNotUploaded: 'Фото свидетельства ОГРН не было загружено',
 	extraPhotoWasNotUploaded: 'Фото страницы прописки не было загружено',
-	extraPhotoWasRejected: 'Фото страницы прописки было отклонено'
+	extraPhotoWasRejected: 'Фото страницы прописки было отклонено',
+	showPassword: 'Показать пароль',
+	hidePassword: 'Скрыть пароль'
 };

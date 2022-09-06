@@ -72,5 +72,7 @@ export default {
 	salutation: 'Anrede',
 	man: 'Herr',
 	woman: 'Frau',
-	pinCode: 'Geheimzahl'
+	pinCode: 'Geheimzahl',
+	showPassword: 'Passwort anzeigen',
+	hidePassword: 'Passwort verbergen'
 };

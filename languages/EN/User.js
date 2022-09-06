@@ -68,5 +68,7 @@ export default {
 	salutation: 'Salutation',
 	man: 'Mr.',
 	woman: 'Mrs.',
-	pinCode: 'Pin code'
+	pinCode: 'Pin code',
+	showPassword: 'Show password',
+	hidePassword: 'Hide password'
 };
