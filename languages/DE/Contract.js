@@ -42,7 +42,7 @@ export default {
 	date: 'Datum',
 	unitAccess: 'Zugang zur Einheit',
 	boxsize: 'Boxgröße',
-	download: 'Öffen',
+	download: 'Öffnen',
 	insuranceCoverageAmount: 'Versicherungssumme',
 	insuranceAmount: 'Versicherungsbetrag',
 	regularPayment: 'Reguläre Monatsmiete'

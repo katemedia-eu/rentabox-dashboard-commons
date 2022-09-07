@@ -104,4 +104,5 @@ export default {
 	map: 'Карта',
 	list: 'Список',
 	step3SelectABox: 'Шаг 3. Выберите бокс',
+	boxesFromAnotherCategory: 'Боксы другой категории размера'
 };

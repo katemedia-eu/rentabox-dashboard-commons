@@ -1,7 +1,7 @@
 export default {
 	bookABox: 'Lagerraum buchen',
 	chooseABox: 'Wählen Sie eine Box aus',
-	stock: 'Lager',
+	stock: 'Standorte',
 	address: 'Adresse',
 	zip: 'Zip',
 	selectStock: 'LAGER AUSWÄHLEN',
@@ -108,4 +108,5 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	map: 'Karte',
 	list: 'Liste',
 	step3SelectABox: 'Schritt 3. Wählen Sie einen Lagerraum',
+	boxesFromAnotherCategory: 'Andere Größenkategorie'
 };
