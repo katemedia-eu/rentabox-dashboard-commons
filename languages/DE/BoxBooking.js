@@ -108,5 +108,10 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	map: 'Karte',
 	list: 'Liste',
 	step3SelectABox: 'Schritt 3. Wählen Sie einen Lagerraum',
-	boxesFromAnotherCategory: 'Andere Größenkategorie'
+	boxesFromAnotherCategory: 'Andere Größenkategorie',
+	selectOnMap: 'Wählen',
+	move: 'Bewegen',
+	zoomIn: 'Vergrößern',
+	zoomOut: 'Verkleinern',
+	stretch: 'Strecken'
 };

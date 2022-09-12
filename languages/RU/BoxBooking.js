@@ -104,5 +104,10 @@ export default {
 	map: 'Карта',
 	list: 'Список',
 	step3SelectABox: 'Шаг 3. Выберите бокс',
-	boxesFromAnotherCategory: 'Боксы другой категории размера'
+	boxesFromAnotherCategory: 'Боксы другой категории размера',
+	selectOnMap: 'Выбрать',
+	move: 'Двигать',
+	zoomIn: 'Приблизить',
+	zoomOut: 'Отдалить',
+	stretch: 'Растянуть'
 };

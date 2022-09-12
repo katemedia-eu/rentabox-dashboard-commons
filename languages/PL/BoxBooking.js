@@ -101,5 +101,10 @@ export default {
 	insurance: 'Kwota ubezpieczenia',
 	deposit: 'Depozyt',
 	vatAmount: 'VAT',
-	boxLeaseAgreement: 'Umowa najmu boksów z Rentabox LLC'
+	boxLeaseAgreement: 'Umowa najmu boksów z Rentabox LLC',
+	selectOnMap: 'Choose',
+	move: 'Move',
+	zoomIn: 'Zoom in',
+	zoomOut: 'Zoom out',
+	stretch: 'Stretch'
 };

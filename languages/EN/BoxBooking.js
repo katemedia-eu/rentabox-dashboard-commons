@@ -107,5 +107,10 @@ export default {
 	map: 'Map',
 	list: 'List',
 	step3SelectABox: 'Step 3. Select a box',
-	boxesFromAnotherCategory: 'Boxes from another size category'
+	boxesFromAnotherCategory: 'Boxes from another size category',
+	selectOnMap: 'Choose',
+	move: 'Move',
+	zoomIn: 'Zoom in',
+	zoomOut: 'Zoom out',
+	stretch: 'Stretch'
 };
