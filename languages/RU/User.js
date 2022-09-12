@@ -12,6 +12,7 @@ export default {
 	phone: 'Телефон',
 	city: 'Город',
 	address: 'Адрес',
+	houseNumber: 'Дом',
 	zip: 'Индекс',
 	company: 'Компания',
 	role: 'Роль',

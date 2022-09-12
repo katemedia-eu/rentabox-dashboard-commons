@@ -12,6 +12,7 @@ export default {
 	phone: 'Phone',
 	city: 'City',
 	address: 'Address',
+	houseNumber: 'House',
 	zip: 'Zip',
 	company: 'Company',
 	role: 'Role',

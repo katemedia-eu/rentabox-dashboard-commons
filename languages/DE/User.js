@@ -12,6 +12,7 @@ export default {
 	phone: 'Telefonnummer',
 	city: 'Stadt',
 	address: 'Straße',
+	houseNumber: 'Hausnummer',
 	zip: 'Postleitzahl',
 	company: 'Firmenname',
 	role: 'Rolle',
