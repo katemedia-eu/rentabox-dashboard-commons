@@ -81,5 +81,6 @@ export default {
 	areYouSureYouWantToRun: 'Sind Sie sicher, dass Sie ausführen möchten ',
 	openingTime: 'Öffnungszeit',
 	closingTime: 'Geschäftsschluss',
-	wifiNetworkName: 'WLAN-Netzwerkname'
+	wifiNetworkName: 'WLAN-Netzwerkname',
+	gate: 'Tore'
 };

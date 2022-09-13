@@ -88,5 +88,6 @@ export default {
 	areYouSureYouWantToRun: 'Вы уверены, что хотите выполнить ',
 	openingTime: 'Время открытия',
 	closingTime: 'Время закрытия',
-	wifiNetworkName: 'Имя сети Wi-Fi'
+	wifiNetworkName: 'Имя сети Wi-Fi',
+	gate: 'Ворота'
 };
