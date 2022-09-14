@@ -5,5 +5,6 @@ export default {
 	password: 'Password',
 	wait: 'Wait ...',
 	enterEmail: 'Enter email',
-	enterPassword: 'Enter password'
+	enterPassword: 'Enter password',
+	goToBooking: 'Go to booking'
 };

@@ -5,5 +5,6 @@ export default {
 	password: 'Hasło',
 	wait: 'Czekaj ...',
 	enterEmail: 'Wprowadz e-mail',
-	enterPassword: 'Wprowadź hasło'
+	enterPassword: 'Wprowadź hasło',
+	goToBooking: 'Go to booking'
 };
