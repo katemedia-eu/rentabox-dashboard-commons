@@ -49,7 +49,7 @@ export default {
 	occupiedBoxes: 'Besetzt',
 	continue: 'Weiter',
 	reservations: 'Reservieren',
-	bookWithoutPayment: 'Reservieren',
+	bookWithoutPayment: 'Kostenlos reservieren',
 	bookAndPay: 'Mieten & Bezahlen',
 	choiceOfArrivalDateTitle: 'Einzugsdatum',
 	choiceOfArrivalDateText: 'Ab wann benötigen Sie Ihr Lagerabteil',
