@@ -1,5 +1,6 @@
 export default {
 	paymentSuccess: 'Payment success',
+	choosePaymentMethodString: 'Choose payment method',
 	paymentFailed: 'Payment failed',
 	paymentDetails: 'Payment details',
 	processorTransactionId: 'Transaction ID',

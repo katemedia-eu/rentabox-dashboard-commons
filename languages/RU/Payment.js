@@ -1,5 +1,6 @@
 export default {
 	paymentSuccess: 'Оплата прошла успешно',
+	choosePaymentMethodString: 'Выберите способ оплаты',
 	paymentFailed: 'Оплата не прошла',
 	processorTransactionId: 'Номер транзакции',
 	paymentDetails: 'Детали оплаты',
