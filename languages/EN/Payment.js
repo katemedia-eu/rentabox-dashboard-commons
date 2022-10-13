@@ -3,6 +3,8 @@ export default {
 	choosePaymentMethodString: 'Choose payment method',
 	paymentFailed: 'Payment failed',
 	paymentDetails: 'Payment details',
+	paymentPending: 'The payment is being processed',
+	paymentPendingDescription: 'Your payment has the status: “Payment processing”. This status means that payment platform is currently checking whether your payment can be completed or not.',
 	processorTransactionId: 'Transaction ID',
 	price: 'Price',
 	cardHolder: 'Card holder',

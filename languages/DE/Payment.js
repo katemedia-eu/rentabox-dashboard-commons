@@ -4,6 +4,8 @@ export default {
 	paymentFailed: 'Zahlung nicht erfolgreich',
 	processorTransactionId: 'Transaktionsnummer',
 	paymentDetails: 'Zahlungsdetails',
+	paymentPending: 'Die Zahlung wird bearbeitet',
+	paymentPendingDescription: 'Ihre Zahlung hat den Status: „Zahlung wird geprüft“. Dieser Status bedeutet, dass Ihre durchgeführte Zahlung von uns geprüft wird und anschließend als abgeschlossen oder fehlgeschlagen eingestuft wird.',
 	price: 'Preis',
 	cardHolder: 'Karteninhaber',
 	truncatedCardNumber: 'Kartennummer',

@@ -2,6 +2,8 @@ export default {
 	paymentSuccess: 'Оплата прошла успешно',
 	choosePaymentMethodString: 'Выберите способ оплаты',
 	paymentFailed: 'Оплата не прошла',
+	paymentPending: 'Оплата обрабатывается',
+	paymentPendingDescription: 'Ваш платеж имеет статус: "Обработка платежа". Этот статус означает, что платежная платформа в настоящее время проверяет, может ли ваш платеж быть завершен или нет.',
 	processorTransactionId: 'Номер транзакции',
 	paymentDetails: 'Детали оплаты',
 	price: 'Цена',

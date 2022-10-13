@@ -3,6 +3,9 @@ export default {
 	choosePaymentMethodString: 'Wybierz metodę płatności',
 	paymentFailed: 'Płatność nie powiodła się',
 	paymentDetails: 'Szczegóły płatności',
+	paymentPending: 'Płatność jest w trakcie realizacji',
+	paymentPendingDescription: 'Twoja płatność ma status: "Przetwarzanie płatności". Status ten oznacza, że platforma płatnicza sprawdza obecnie, czy Twoja płatność może zostać zrealizowana, czy też nie.',
+
 	processorTransactionId: 'Identyfikator transakcji',
 	price: 'Cena',
 	cardHolder: 'Portfel',
