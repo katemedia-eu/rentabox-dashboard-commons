@@ -76,6 +76,7 @@ export default {
 	boxNumber: 'Box number',
 	minimalRentPeriodDescription: 'Minimum rental period 2 months',
 	forTwoInitialMonths: 'For the first 2 months',
+	forInitialServicePeriod: 'For initial service period',
 	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
 	price: 'Price',
 	selectBoxSize: 'Select box size',

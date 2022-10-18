@@ -20,7 +20,7 @@ export default {
 	areYouSureYouWantToSaveChanges: 'Czy na pewno chcesz zapisać zmiany?',
 	searchPlaceholder: 'Wyszukiwanie...',
 	metersShortLetter: 'm',
-	monthShort: 'pon.',
+	monthShort: 'mies.',
 	max: 'Max',
 	months: 'miesiąc(-e)',
 	select: 'Wybierz...',
