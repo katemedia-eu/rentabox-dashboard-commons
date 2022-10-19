@@ -42,7 +42,7 @@ export default {
 	areYouSureYouWantToRejectDocument: 'Czy na pewno chcesz odrzucić dokument?',
 	areYouSureYouWantToCancelProfileVerification: 'Czy na pewno chcesz anulować weryfikację profilu?',
 	areYouSureYouWantToMarkProfileAsVerified: 'Czy na pewno chcesz oznaczyć profil jako zweryfikowany?',
-	accountType: 'Rodzaj rachunku',
+	accountType: 'Rezerwuję boks jako:',
 	individual: 'Osoba prywatna',
 	legal: 'Firma',
 	companyName: 'Nazwa firmy',

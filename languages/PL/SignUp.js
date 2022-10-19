@@ -1,5 +1,5 @@
 export default {
-	signUp: 'Zaloguj się',
+	signUp: 'Zarejestruj się',
 	password: 'Wyślemy Ci hasło na Twój adres e-mail',
 	youHaveRegistered: 'Udało Ci się zarejestrować',
 	checkEmail: email => `Proszę, sprawdź swój e-mail ${email}`,

@@ -6,5 +6,5 @@ export default {
 	wait: 'Czekaj ...',
 	enterEmail: 'Wprowadz e-mail',
 	enterPassword: 'Wprowadź hasło',
-	goToBooking: 'Go to booking'
+	goToBooking: 'Zarezerwuj'
 };
