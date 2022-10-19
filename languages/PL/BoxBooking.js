@@ -120,11 +120,12 @@ export default {
 		Otrzymasz link do podpisania umowy na swój e-mail oraz fakturę wstępną.
 		Po opłaceniu faktury cały dostęp do magazynu i skrzynki zostanie Ci przyznany..`,
 	reservationId: 'Identyfikator rezerwacji',
-	expires: 'Wygasa',
+	expires: 'Rezerwacja wygasa',
+	stockAddess: 'Adres magazynu',
 	box: 'Boks',
 	startRentDate: 'Data rozpoczęcia wynajmu',
 	endRentDate: 'Data zakończenia wynajmu',
-	initialPayment: 'Opłata wstępna, zaliczka',
+	initialPayment: 'Pierwsza wpłata wraz ze zwrotnym depozytem',
 	enterIntoContract: 'Zawarcie umowy',
 	details: 'Szczegóły',
 	rentalCost: 'Koszt wynajmu netto',
@@ -138,6 +139,7 @@ export default {
 	selectOnMap: 'Wybierz na mapie',
 	step3SelectABox: 'Krok 3. Wybierz boks',
 	boxesFromAnotherCategory: 'Boksy z innej kategorii rozmiarów',
-	reservationDescription: 'Dokonanie rezerwacji jest bezpłatne. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od przesłania formularza'
-
+	reservationDescription: 'Dokonanie rezerwacji jest bezpłatne. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od przesłania formularza',
+	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
+	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`
 };

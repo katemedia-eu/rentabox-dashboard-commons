@@ -112,7 +112,10 @@ export default {
 	selectOnMap: 'Choose',
 	move: 'Move',
 	zoomIn: 'Zoom in',
+	stockAddess: 'Stock address',
 	zoomOut: 'Zoom out',
 	stretch: 'Stretch',
-	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form'
+	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
+	paymentFromSecondMonth: 'Payment from second month',
+	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`
 };
