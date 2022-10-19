@@ -12,7 +12,7 @@ export default {
 	profile: 'Profil',
 	myBoxes: 'Moje boksy',
 	support: 'Wsparcie',
-	book: 'Książka',
+	book: 'Rezerwacja',
 	toHome: 'Strona główna',
 	topDebtors: 'Największe dłużności',
 	notifications: 'Powiadomienie',

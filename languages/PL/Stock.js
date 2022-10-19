@@ -83,7 +83,7 @@ export default {
 	height: 'Wysokość',
 	width: 'Szerokość',
 	depth: 'Głębokość',
-	square: 'Kwadrat',
+	square: 'Powierzchnia',
 	wifiNetworkName: 'Nazwa sieci Wi-Fi',
 	gate: 'Brama'
 };

@@ -38,10 +38,37 @@ export default {
 	reserveViaBankTransfer: 'Zarezerwuj przez przelew bankowy',
 	iHaveReadDocsAndAgree: 'Zapoznałem się z poniższymi aneksami do umowy i akceptuję je w całości.',
 	sizesMeta: {
-		s: 'Artykuły gospodarstwa domowego, które zajmują około 30 m² lub archiwizują do 300 plików',
-		l: 'Artykuły gospodarstwa domowego, które zajmują około 50 m² lub archiwizują do 500 plików',
-		m: 'Artykuły gospodarstwa domowego, które zajmują około 80 m² lub archiwizują do 800 plików',
-		xl: 'Artykuły gospodarstwa domowego, które zajmują około 100 m² lub archiwizują do 1000 plików',
+		s: `Zmieścisz tutaj: <br />
+		&#183; 20-150 kartonów lub<br />
+		&#183; 2-4 regały, lub<br />
+		&#183; do 4 palet, lub<br />
+		&#183; wyposażenie z pomieszczenia o wielkości do 35 m2<br /> <br />
+		Wybierz tę opcję np. do przechowania rzeczy sezonowych czy pamiątek rodzinnych albo małego, firmowego archiwum.
+		`,
+		l: `
+		Zmieścisz tutaj:<br />
+			&#183; 200-300 kartonów lub<br />
+			&#183; 5-8 regałów, lub<br />
+			&#183; 4-6 palet, lub<br />
+			&#183; wyposażenie z pomieszczenia o wielkości do 50 m2<br /> <br />
+		Sprawdzi się np. w trakcie remontu całego mieszkania czy biura lub przeprowadzki, a także w przypadku niedużego sklepu internetowego.
+		`,
+		m: `
+		Zmieścisz tutaj: <br />
+		&#183; 400-600 kartonów lub <br />
+		&#183; 6-10 regałów, lub <br />
+		&#183; 9-15 palet, lub <br />
+		&#183; wyposażenie z pomieszczenia o wielkości do 80 m2 <br /> <br />
+		Idealne rozwiązanie dla małych i średnich firm oraz kiedy opróżniasz ponad 100-metrowy budynek.
+		`,
+		xl: `
+		Zmieścisz tutaj: <br />
+		&#183; 700-1000 kartonów lub <br />
+		&#183; 10-15 regałów, lub <br />
+		&#183; 15-20 palet, lub <br />
+		&#183; wyposażenie z pomieszczenia o wielkości ok. 100 m2 <br /> <br />
+		To już naprawdę pokaźna przestrzeń do przechowywania. Wybierz tę opcję, jeśli potrzebujesz magazynu dla swojego biznesu.
+		`,
 	},
 	englishWordOr: 'lub',
 	yourChoice: 'Twój wybór',
@@ -60,8 +87,8 @@ export default {
 	successText: 'Proszę sprawdzić swój e-mail i podpisać umowę. Może on znajdować się w  folderze spamu. Box będzie dostępny od dnia podpisania umowy po opłaceniu faktury..',
 	selectUser: 'Wybierz użytkownika',
 	user: 'Użytkownik',
-	docsAgreement: 'Umowa dotycząca dokumentów',
-	payment: 'Płatność',
+	docsAgreement: 'Regulamin',
+	payment: 'Rezerwacja',
 	openEndedContractNote: 'Jest to umowa na czas nieokreślony, która będzie trwała do momentu jej anulowania. Wybrany termin reprezentuje Twoją opcję anulowania.',
 	back: 'Powrót',
 	insuranceWillBeAdded: '+ubezpieczenie',
@@ -72,17 +99,17 @@ export default {
 	uploadDocsPhoto: 'Prześlij zdjęcia dokumentów',
 	bookingByTheAdministrator: 'Rezerwacja przez administratora jest zabroniona! Zaloguj się jako użytkownik.',
 	chooseYourInsurance: 'Wybierz swoje ubezpieczenie',
-	valueOfGoods: 'Wartość towarów',
+	valueOfGoods: 'Wartość twoich rzeczy',
 	oneEuroForFirstMonth: 'Pierwszy miesiąc za 1 euro',
 	boxNumber: 'Numer boksu',
 	minimalRentPeriodDescription: 'Minimalny okres wynajmu 7 dni',
 	forTwoInitialMonths: 'Przez pierwsze dwa miesiące',
-	forInitialServicePeriod: 'Na początkowy okres obsługi',
-	twoInitialMonthsInsuranceDescription: 'Łącznie z ubezpieczeniem ',
+	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem',
+	twoInitialMonthsInsuranceDescription: 'Oraz ubezpieczeniem',
 	price: 'Cena',
 	selectBoxSize: 'Wybierz rozmiar boksu',
 	enterDataAndPayment: 'Wprowadź dane i płatność',
-	bookingParams: 'Wprowadź dane',
+	bookingParams: 'Taryfa',
 	reserveOrPay: 'Płać',
 	andPayLater: 'Zapłać pózniej',
 	payLaterDesctiption: 'Fakturę znajdziesz na swoim koncie',
@@ -100,7 +127,7 @@ export default {
 	initialPayment: 'Opłata wstępna, zaliczka',
 	enterIntoContract: 'Zawarcie umowy',
 	details: 'Szczegóły',
-	rentalCost: 'Koszt wynajmu',
+	rentalCost: 'Koszt wynajmu netto',
 	insurance: 'Kwota ubezpieczenia',
 	deposit: 'Depozyt',
 	vatAmount: 'VAT',
@@ -110,6 +137,7 @@ export default {
 	boxLeaseAgreement: 'Umowa najmu boksów z Rentabox LLC',
 	selectOnMap: 'Wybierz na mapie',
 	step3SelectABox: 'Krok 3. Wybierz pomieszczenie do przechowywania',
-	boxesFromAnotherCategory: 'Pudełka z innej kategorii rozmiarów',
+	boxesFromAnotherCategory: 'Boksy z innej kategorii rozmiarów',
+	reservationDescription: 'Dokonanie rezerwacji jest bezpłatne. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od przesłania formularza'
 
 };

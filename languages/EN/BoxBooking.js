@@ -113,5 +113,6 @@ export default {
 	move: 'Move',
 	zoomIn: 'Zoom in',
 	zoomOut: 'Zoom out',
-	stretch: 'Stretch'
+	stretch: 'Stretch',
+	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form'
 };

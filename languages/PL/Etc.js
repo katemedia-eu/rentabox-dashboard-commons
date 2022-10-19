@@ -36,5 +36,6 @@ export default {
 	stepOne: 'Krok 1',
 	stepTwo: 'Krok 2',
 	stepThree: 'Krok 3',
-	from3rdMonth: 'od 3 miesiąca'
+	from3rdMonth: 'od 3 miesiąca',
+	optional: 'Opcjonalny'
 };
