@@ -45,7 +45,7 @@ export default {
 		&#183; wyposażenie z pomieszczenia o wielkości do 35 m2<br /> <br />
 		Wybierz tę opcję np. do przechowania rzeczy sezonowych czy pamiątek rodzinnych albo małego, firmowego archiwum.
 		`,
-		l: `
+		m: `
 		Zmieścisz tutaj:<br />
 			&#183; 200-300 kartonów lub<br />
 			&#183; 5-8 regałów, lub<br />
@@ -53,7 +53,7 @@ export default {
 			&#183; wyposażenie z pomieszczenia o wielkości do 50 m2<br /> <br />
 		Sprawdzi się np. w trakcie remontu całego mieszkania czy biura lub przeprowadzki, a także w przypadku niedużego sklepu internetowego.
 		`,
-		m: `
+		l: `
 		Zmieścisz tutaj: <br />
 		&#183; 400-600 kartonów lub <br />
 		&#183; 6-10 regałów, lub <br />
@@ -79,7 +79,7 @@ export default {
 	bookWithoutPayment: 'Rezerwuj bez płatności',
 	bookAndPay: 'Zarezerwuj i zapłać',
 	choiceOfArrivalDateTitle: 'Data wprowadzenia się',
-	choiceOfArrivalDateText: 'Kiedy potrzebujesz swojego boksa',
+	choiceOfArrivalDateText: 'Kiedy potrzebujesz swojego boksu',
 	choiceOfArrivalDatePlaceholder: 'Wybierz datę',
 	choiceOfDepartureDateTitle: 'Data wyjazdu',
 	choiceOfDepartureDatePlaceholder: 'Wybierz datę',
@@ -104,8 +104,8 @@ export default {
 	boxNumber: 'Numer boksu',
 	minimalRentPeriodDescription: 'Minimalny okres wynajmu 7 dni',
 	forTwoInitialMonths: 'Przez pierwsze dwa miesiące',
-	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem',
-	twoInitialMonthsInsuranceDescription: 'Oraz ubezpieczeniem',
+	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem oraz ubezpieczeniem',
+	twoInitialMonthsInsuranceDescription: '',
 	price: 'Cena',
 	selectBoxSize: 'Wybierz boks',
 	enterDataAndPayment: 'Zarezerwuj',
@@ -141,5 +141,6 @@ export default {
 	boxesFromAnotherCategory: 'Boksy z innej kategorii rozmiarów',
 	reservationDescription: 'Dokonanie rezerwacji jest bezpłatne. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od przesłania formularza',
 	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
-	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`
+	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`,
+	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',
 };

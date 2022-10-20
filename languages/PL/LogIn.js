@@ -1,5 +1,5 @@
 export default {
-	enter: 'Login',
+	enter: 'Zaloguj się',
 	forgotPassword: 'Zapomniełeś hasła?',
 	yourEmail: 'Twój e-mail',
 	password: 'Hasło',

@@ -117,5 +117,6 @@ export default {
 	stretch: 'Stretch',
 	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
 	paymentFromSecondMonth: 'Payment from second month',
-	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`
+	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`,
+	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days'
 };
