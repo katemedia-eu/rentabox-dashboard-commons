@@ -111,5 +111,6 @@ export default {
 	zoomIn: 'Приблизить',
 	zoomOut: 'Отдалить',
 	stretch: 'Растянуть',
-	needHelp: 'Нужна помощь?'
+	needHelp: 'Нужна помощь?',
+	haveAnAccount: 'Вы зарегистрированы?'
 };

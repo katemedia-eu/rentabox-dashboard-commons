@@ -120,5 +120,6 @@ export default {
 	paymentFromSecondMonth: 'Payment from second month',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`,
 	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
-	needHelp: 'Need help?'
+	needHelp: 'Need help?',
+	haveAnAccount: 'Already have and account?'
 };
