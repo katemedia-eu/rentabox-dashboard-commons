@@ -27,6 +27,7 @@ export default {
 	7000: 'No actual payment',
 	7001: 'Your profile is not verified. You cant perform this action',
 	7002: 'You can not open the warehouse during non-working hours',
+	7003: 'the start date of the contract has not yet arrived',
 
 	9000: 'User with such email already exists.',
 	9001: 'Invalid data provided.',
