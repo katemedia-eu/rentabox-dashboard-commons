@@ -26,6 +26,7 @@ export default {
 	contractTerms: 'General contract terms',
 	notAvailable: 'Not available',
 	step1SelectTheSizeOfTheBox: 'Step 1. Select the size of the box',
+	step1SelectTheStock: 'Step 1. Select the stock',
 	step2SelectTheSizeOfTheBox: 'Step 2. Select the size of the box',
 	step3SelectABoxOnTheMap: 'Step 3. Select a box on the map',
 	month: 'month',
@@ -118,5 +119,7 @@ export default {
 	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
 	paymentFromSecondMonth: 'Payment from second month',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`,
-	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days'
+	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
+	needHelp: 'Need help?',
+	haveAnAccount: 'Already have and account?'
 };
