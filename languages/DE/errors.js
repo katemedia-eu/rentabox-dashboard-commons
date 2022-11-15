@@ -28,6 +28,8 @@ export default {
 	7000: 'Keine tatsächliche Zahlung',
 	7001: 'Ihr Account wurde nicht bestätigt. Sie dürfen diese Handlung nicht vollziehen',
 	7002: 'Sie können das Lager außerhalb der Arbeitszeit nicht öffnen',
+	7003: 'Der Vertragsbeginn ist noch nicht da',
+
 
 	9000: 'Ein Nutzer mit angegebener E-Mail-Adresse existiert bereits.',
 	9001: 'Sie haben ungültige Daten eingegeben.',

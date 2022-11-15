@@ -68,6 +68,7 @@ export default {
 	importUsersByDate: 'Импорт пользователей по дате',
 	otherContacts: 'Другие способы связи',
 	addressRequired: 'Обязательно',
+	houseRequired: 'Обязательно',
 	pinCode: 'Пин код',
 	legalDocWasNotUploaded: 'Фото свидетельства ОГРН не было загружено',
 	extraPhotoWasNotUploaded: 'Фото страницы прописки не было загружено',
