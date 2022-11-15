@@ -34,6 +34,7 @@ export default {
 	saveAmount: 'Выгода',
 	discount: 'Скидка',
 	cancel: 'Отменить бронирование',
+	areYouSureToCancelReservation: 'Вы уверены, что хотите отменить бронирование ?',
 	insuranceAmount: (amount) => `Ваши вещи будут застрахованы на ${amount} EUR`,
 	reserveWithRequiredPayment: 'Забронировать с обязательной оплатой',
 	reserveWithPayPal: 'Забронировать через PayPal',

@@ -33,6 +33,7 @@ export default {
 	saveAmount: 'Zapisz',
 	discount: 'Zniżka',
 	cancel: 'Anulowanie rezerwacji',
+	areYouSureToCancelReservation: 'Czy na pewno chcesz anulować rezerwację ?',
 	insuranceAmount: (amount) => `Z naszym podstawowym ubezpieczeniem Twoje mienie jest ubezpieczone na ${amount} zł`,
 	reserveWithRequiredPayment: 'Zarezerwuj z opłatą',
 	reserveWithPayPal: 'Zarezerwuj z PayPal',
