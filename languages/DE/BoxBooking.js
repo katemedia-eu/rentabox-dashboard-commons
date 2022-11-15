@@ -32,6 +32,7 @@ export default {
 	forWholePeriod: 'Gesamtsumme',
 	saveAmount: 'Sie sparen',
 	discount: 'Rabatt',
+	cancel: 'Reservierung stornieren',
 	insuranceAmount: (amount) => `Über unsere Basis-Lagerversicherung sind Ihre Gegenstände in Höhe von ${amount} EUR,- versichert.`,
 	reserveWithRequiredPayment: 'Buchen Sie mit obligatorischer Zahlung',
 	reserveWithPayPal: 'Buchen Sie mit PayPal',

@@ -32,6 +32,7 @@ export default {
 	forWholePeriod: 'Razem',
 	saveAmount: 'Zapisz',
 	discount: 'Zniżka',
+	cancel: 'Anulowanie rezerwacji',
 	insuranceAmount: (amount) => `Z naszym podstawowym ubezpieczeniem Twoje mienie jest ubezpieczone na ${amount} zł`,
 	reserveWithRequiredPayment: 'Zarezerwuj z opłatą',
 	reserveWithPayPal: 'Zarezerwuj z PayPal',

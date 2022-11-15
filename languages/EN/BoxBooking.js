@@ -33,6 +33,7 @@ export default {
 	forWholePeriod: 'Total',
 	saveAmount: 'Save',
 	discount: 'Discount',
+	cancel: 'Cancel reservation',
 	insuranceAmount: (amount) => `With our basic storage insurance, your items are insured for ${amount} EUR`,
 	reserveWithRequiredPayment: 'Book with mandatory payment',
 	reserveWithPayPal: 'Book with PayPal',

@@ -33,6 +33,7 @@ export default {
 	forWholePeriod: 'За весь период',
 	saveAmount: 'Выгода',
 	discount: 'Скидка',
+	cancel: 'Отменить бронирование',
 	insuranceAmount: (amount) => `Ваши вещи будут застрахованы на ${amount} EUR`,
 	reserveWithRequiredPayment: 'Забронировать с обязательной оплатой',
 	reserveWithPayPal: 'Забронировать через PayPal',
