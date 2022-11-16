@@ -36,7 +36,7 @@ export default {
 	cancel: 'Отменить бронирование',
 	areYouSureToCancelReservation: 'Вы уверены, что хотите отменить бронирование ?',
 	insuranceAmount: (amount) => `Ваши вещи будут застрахованы на ${amount} EUR`,
-	reserveWithRequiredPayment: 'Забронировать с обязательной оплатой',
+	reserveWithRequiredPayment: 'Оплатить',
 	reserveWithPayPal: 'Забронировать через PayPal',
 	reserveViaBankTransfer: 'Зарезервировать через банковский перевод',
 	iHaveReadDocsAndAgree: 'Я прочитал договор, а также дополнения к нему и полностью их принимаю.',

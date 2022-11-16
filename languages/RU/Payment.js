@@ -20,7 +20,7 @@ export default {
 	totalToPayString: 'Итого к оплате',
 	threeDSecureRedirect: 'Вы можете быть перенаправлены на страницу прохождения 3D-secure верификации',
 	poweredByStripe: 'Разработано Stripe',
-	payByCard: 'Оплата картой',
+	payByCard: 'Картой',
 	invoiceNumber: 'Номер счета',
 	amount: 'Сумма',
 	system: 'Cистема',
