@@ -26,15 +26,12 @@ export default {
 	contractTerms: 'General contract terms',
 	notAvailable: 'Not available',
 	step1SelectTheSizeOfTheBox: 'Step 1. Select the size of the box',
-	step1SelectTheStock: 'Step 1. Select the stock',
 	step2SelectTheSizeOfTheBox: 'Step 2. Select the size of the box',
 	step3SelectABoxOnTheMap: 'Step 3. Select a box on the map',
 	month: 'month',
 	forWholePeriod: 'Total',
 	saveAmount: 'Save',
 	discount: 'Discount',
-	cancel: 'Cancel reservation',
-	areYouSureToCancelReservation: 'Are you sure you want to Cancel reservation ?',
 	insuranceAmount: (amount) => `With our basic storage insurance, your items are insured for ${amount} EUR`,
 	reserveWithRequiredPayment: 'Book with mandatory payment',
 	reserveWithPayPal: 'Book with PayPal',
@@ -122,6 +119,5 @@ export default {
 	paymentFromSecondMonth: 'Payment from second month',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`,
 	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
-	needHelp: 'Need help?',
-	haveAnAccount: 'Already have and account?'
+	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href={${link}} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
 };

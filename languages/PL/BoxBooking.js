@@ -32,8 +32,6 @@ export default {
 	forWholePeriod: 'Razem',
 	saveAmount: 'Zapisz',
 	discount: 'Zniżka',
-	cancel: 'Anulowanie rezerwacji',
-	areYouSureToCancelReservation: 'Czy na pewno chcesz anulować rezerwację ?',
 	insuranceAmount: (amount) => `Z naszym podstawowym ubezpieczeniem Twoje mienie jest ubezpieczone na ${amount} zł`,
 	reserveWithRequiredPayment: 'Zarezerwuj z opłatą',
 	reserveWithPayPal: 'Zarezerwuj z PayPal',
@@ -145,4 +143,5 @@ export default {
 	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`,
 	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',
+	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href={${link}} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
 };
