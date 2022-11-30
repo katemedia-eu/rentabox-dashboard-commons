@@ -72,8 +72,7 @@ export default {
 	man: 'Pan',
 	woman: 'Pani',
 	pinCode: 'kod pin',
-	houseRequiredLegal: 'Wymagane',
-	houseRequiredIndividual: 'Wymagane',
+	houseRequired: 'Wymagane',
 	showPassword: 'Pokaż hasło',
 	hidePassword: 'Ukryj hasło'
 };
