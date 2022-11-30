@@ -65,6 +65,7 @@ export default {
 	openEndedContractNote: 'This is an open-ended contract, which will run until you cancel it. The chosen term represents your cancellation option.',
 	openEndedContractNoteTopBox: 'It is a permanent contract with a minimum contract period. After the minimum contract period has expired, the contract is automatically renewed monthly until it is terminated with a notice period of 14 days.',
 	back: 'Back',
+	close: 'Close',
 	insuranceWillBeAdded: '+insurance',
 	automaticPaymentsText: 'Automatic monthly payment',
 	searchHeader: 'Search this map',
