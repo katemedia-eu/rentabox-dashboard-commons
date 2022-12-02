@@ -93,7 +93,7 @@ export default {
 	payment: 'Rezerwacja',
 	openEndedContractNote: 'Jest to umowa na czas nieokreślony, która będzie trwała do momentu jej anulowania. Wybrany termin reprezentuje Twoją opcję anulowania.',
 	back: 'Powrót',
-	close: 'Blisko',
+	close: 'Zamknij',
 	insuranceWillBeAdded: '+ubezpieczenie',
 	automaticPaymentsText: 'Automatyczna płatność miesięczna',
 	searchHeader: 'Przeszukaj tę mapę',
