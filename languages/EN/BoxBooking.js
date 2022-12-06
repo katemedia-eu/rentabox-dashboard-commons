@@ -124,4 +124,5 @@ export default {
 	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
 	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href=${link} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
 	cantPreview: (link) => `Can't preview, download <a href=${link}>document</a>`,
+	getRoute: 'Get route',
 };

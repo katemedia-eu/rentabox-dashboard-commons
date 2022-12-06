@@ -148,4 +148,5 @@ export default {
 	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',
 	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href=${link} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
 	cantPreview: (link) => `Nie można wyświetlić podglądu, pobierz <a href=${link}>dokument</a>`,
+	getRoute: 'Uzyskać trasę',
 };
