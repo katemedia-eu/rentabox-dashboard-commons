@@ -8,6 +8,7 @@ export default {
 
 	processorTransactionId: 'Identyfikator transakcji',
 	price: 'Cena',
+	cycleBillingDay: 'Dzień rozliczenia cyklu',
 	cardHolder: 'Portfel',
 	truncatedCardNumber: 'Numer karty',
 	myBoxes: 'Moje boksy',

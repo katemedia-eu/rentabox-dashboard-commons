@@ -9,6 +9,7 @@ export default {
 	price: 'Preis',
 	cardHolder: 'Karteninhaber',
 	truncatedCardNumber: 'Kartennummer',
+	cycleBillingDay: 'Abbuchungsdatum',
 	myBoxes: 'Mein Lagerraum',
 	book: 'Buchung',
 	tryPaymentLater: 'Oops, etwas ist schief gelaufen. Überprüfen Sie bitte Ihre Daten und probieren Sie es später noch einmal. ',
