@@ -116,5 +116,6 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	zoomIn: 'Vergrößern',
 	zoomOut: 'Verkleinern',
 	stretch: 'Strecken',
-	haveAnAccount: 'Habe bereits ein Konto?'
+	haveAnAccount: 'Habe bereits ein Konto?',
+	useAutoPayments: 'Automatische Zahlungen zulassen'
 };
