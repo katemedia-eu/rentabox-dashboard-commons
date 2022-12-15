@@ -48,5 +48,7 @@ export default {
 	download: 'Open',
 	insuranceCoverageAmount: 'Insurance coverage amount',
 	insuranceAmount: 'Insurance amount',
-	regularPayment: 'Regular payment'
+	regularPayment: 'Regular payment',
+	netto: 'netto',
+	brutto: 'brutto'
 };

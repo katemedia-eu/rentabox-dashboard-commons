@@ -56,7 +56,7 @@ export default {
 	choiceOfArrivalDateTitle: 'Einzugsdatum',
 	choiceOfArrivalDateText: 'Ab wann benötigen Sie Ihr Lagerabteil',
 	choiceOfArrivalDatePlaceholder: 'Wählen Sie ein Datum',
-	successTitle: ['Gratulieren!', 'Das Lagerabteil wurde erfolgreich reserviert.'],
+	successTitle: ['Gratulieren!', 'Das Lagerabteil wurde erfolgreich gemietet.'],
 	successText: 'Prüfen Sie bitte Ihr Emailpostfach inkl. den Spamordner und unterschreiben Sie den Mietvertrag. Das Lagerabteil steht beim Zahlungseingang, zum Mietbeginn zur Verfügung.',
 	selectUser: 'Wähle den Benutzer',
 	user: 'Benutzer',
