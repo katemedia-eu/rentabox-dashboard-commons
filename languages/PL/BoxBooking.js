@@ -72,6 +72,12 @@ export default {
 		To już naprawdę pokaźna przestrzeń do przechowywania. Wybierz tę opcję, jeśli potrzebujesz magazynu dla swojego biznesu.
 		`,
 	},
+	tariffs: {
+		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia.',
+		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje najliczona na 6 miesiąc.',
+		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje najliczona na 12 miesiąc.',
+	},
+	insuranceCoverage: 'Ubezpieczenie do kwoty',
 	englishWordOr: 'lub',
 	yourChoice: 'Twój wybór',
 	freeBoxesOfTheRightSize: 'Wolne boksy w odpowiednim rozmiarze',
