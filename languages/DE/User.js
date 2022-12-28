@@ -1,5 +1,6 @@
 export default {
 	accountDetails: 'Account-Details',
+	lockAvailability: 'Status sperren',
 	accountCreation: 'einen Account erstellen',
 	docsAttachmentInfo: 'Der Benutzer muss das Foto der Personaldokumente im persönlichem Bereich der mobilen Anwendung herunteralden',
 	userWillReceivePassword: 'Der Benutzer bekommt das Passwort per E-Mail',

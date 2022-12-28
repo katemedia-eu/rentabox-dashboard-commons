@@ -1,6 +1,8 @@
 export default {
 	accountDetails: 'Детали аккаунта',
 	accountCreation: 'Создание аккаунта',
+	lockAvailability: 'Состояние замка',
+
 	docsAttachmentInfo: 'Пользователю необходимо присоединить фото документов в личном кабинете мобильного приложения',
 	userWillReceivePassword: 'Пользователь получит пароль на почту',
 	passwordMayBeReset: 'Пароль может быть сброшен в форме сброса пароля',

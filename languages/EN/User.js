@@ -1,6 +1,7 @@
 export default {
 	accountDetails: 'Account details',
 	accountCreation: 'Create an account',
+	lockAvailability: 'Lock Status',
 	docsAttachmentInfo: 'The user needs to attach a photo of documents in the personal account of the mobile application',
 	userWillReceivePassword: 'The user will receive a password for the mail',
 	passwordMayBeReset: 'Password can be reset in the form of password reset',
