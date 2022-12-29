@@ -85,6 +85,7 @@ export default {
 	width: 'Width',
 	depth: 'Depth',
 	square: 'Square',
+	boxSpace: 'Box space',
 	areYouSureYouWantToRun: 'Are you sure you want to run ',
 	openingTime: 'Opening time',
 	closingTime: 'Closing time',
