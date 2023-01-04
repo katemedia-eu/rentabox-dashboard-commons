@@ -1,5 +1,8 @@
 export default {
 	contractDetails: 'Сontract details',
+	BoxRentalAgreement: 'Umowa najmu boksu',
+	termsOfUse: 'Terms of use',
+	tenantStatements: 'Tenant\'s statements',
 	invoices: 'Invoices',
 	contractNumber: 'Contract number',
 	contractStatus: 'Contract status',
