@@ -76,5 +76,8 @@ export default {
 	extraPhotoWasNotUploaded: 'Фото страницы прописки не было загружено',
 	extraPhotoWasRejected: 'Фото страницы прописки было отклонено',
 	showPassword: 'Показать пароль',
-	hidePassword: 'Скрыть пароль'
+	hidePassword: 'Скрыть пароль',
+	opened: 'Открыт',
+	closed: 'Закрыт',
+	unavailable: 'Недоступен'
 };
