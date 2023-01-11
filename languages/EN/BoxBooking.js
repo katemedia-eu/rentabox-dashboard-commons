@@ -113,6 +113,7 @@ export default {
 	forInitialServicePeriod: 'Your first invoice will conclude a refundable deposit and insurance fee',
 	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
 	price: 'Price',
+	prices: 'Prices',
 	selectBoxSize: 'Select box size',
 	enterDataAndPayment: 'Enter data & payment',
 	bookingParams: 'Enter data',

@@ -85,6 +85,7 @@ export default {
 	minimalRentPeriodDescription: 'Минимальный срок хранения - 2 месяца',
 	forTwoInitialMonths: 'За первые два месяца',
 	price: 'Стоимость',
+	prices: 'Цены',
 	selectCity: 'Выберите город',
 	selectBoxSize: 'Размер бокса',
 	enterDataAndPayment: 'Оплата',

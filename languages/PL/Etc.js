@@ -29,7 +29,7 @@ export default {
 	once: 'Raz na',
 	monthly: 'Za miesiąc',
 	toHome: 'do strony głównej',
-	download: 'Pobrać',
+	download: 'Pobierz PDF',
 	somethingWentWrong: 'Ups, coś poszło nie tak...',
 	somethingWentWrongDescription: 'Spróbuj ponownie. <br/> Lub skontaktuj się z pomocą techniczną.',
 	or: 'lub',
