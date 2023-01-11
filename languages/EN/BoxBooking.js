@@ -156,5 +156,6 @@ export default {
 	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href=${link} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
 	cantPreview: (link) => `Can't preview, download <a href=${link}>document</a>`,
 	getRoute: 'Get route',
-	useAutoPayments: 'Allow autopayments'
+	useAutoPayments: 'Allow autopayments',
+	externalBoxDescription: (link) => `The selected box requires receiving the key from the reception before moving in ( <a href=${link}>CHECK OPENING HOURS</a> )`
 };

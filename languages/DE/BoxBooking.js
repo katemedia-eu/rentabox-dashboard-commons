@@ -86,6 +86,7 @@ export default {
 	forTwoInitialMonths: 'Für die ersten 2 Monate',
 	twoInitialMonthsInsuranceDescription: 'inkl. Lagerversicherung',
 	price: 'Preis',
+	prices: 'Preise',
 	selectBoxSize: 'LAGERRAUM WÄHLEN',
 	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG',
 	bookingParams: 'DATENEINGABE',
