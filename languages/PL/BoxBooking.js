@@ -116,7 +116,6 @@ export default {
 	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem oraz ubezpieczeniem',
 	twoInitialMonthsInsuranceDescription: '',
 	price: 'Cena',
-	prices: 'Ceny',
 	selectBoxSize: 'Wybierz boks',
 	enterDataAndPayment: 'Zarezerwuj',
 	bookingParams: 'Taryfa',
@@ -156,4 +155,5 @@ export default {
 	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href=${link} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
 	cantPreview: (link) => `Nie można wyświetlić podglądu, pobierz <a href=${link}>dokument</a>`,
 	getRoute: 'Uzyskać trasę',
+	externalBoxDescription: (link) => `Wybrany boks wymaga odbioru klucza z recepcji przed wprowadzeniem się ( <a href=${link}>SPRAWDŹ GODZINY OTWARCIA</a> )`
 };
