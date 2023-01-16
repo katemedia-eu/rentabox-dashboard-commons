@@ -52,7 +52,7 @@ export default {
 		&#183; 5-8 shelving units or<br />
 		&#183; 4-6 pallets<br />
 		&#183; equipment from room of up to 50m2<br /> <br />
-		This is going to work if you are renovating the whole apartment or office, if you are moving or if you have a small internet store. 
+		This is going to work if you are renovating the whole apartment or office, if you are moving or if you have a small internet store.
 		`,
 		l: `You can fit here: <br />
 		&#183; 400-600 cartons or<br />
@@ -113,6 +113,7 @@ export default {
 	forInitialServicePeriod: 'Your first invoice will conclude a refundable deposit and insurance fee',
 	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
 	price: 'Price',
+	prices: 'Prices',
 	selectBoxSize: 'Select box size',
 	enterDataAndPayment: 'Enter data & payment',
 	bookingParams: 'Enter data',

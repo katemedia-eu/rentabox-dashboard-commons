@@ -116,6 +116,7 @@ export default {
 	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem oraz ubezpieczeniem',
 	twoInitialMonthsInsuranceDescription: '',
 	price: 'Cena',
+	prices: 'Ceny',
 	selectBoxSize: 'Wybierz boks',
 	enterDataAndPayment: 'Zarezerwuj',
 	bookingParams: 'Taryfa',
