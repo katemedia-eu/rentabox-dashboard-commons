@@ -29,6 +29,7 @@ export default {
 	step2SelectTheSizeOfTheBox: 'Step 2. Select the size of the box',
 	step3SelectABoxOnTheMap: 'Step 3. Select a box on the map',
 	month: 'month',
+	week: 'week',
 	forWholePeriod: 'Total',
 	saveAmount: 'Save',
 	discount: 'Discount',

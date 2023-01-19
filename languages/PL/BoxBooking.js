@@ -29,6 +29,7 @@ export default {
 	step2SelectTheSizeOfTheBox: 'Krok 2. Wybierz rozmiar boksu',
 	step3SelectABoxOnTheMap: 'Krok 3. Wybierz boks na mapie',
 	month: 'miesiąc',
+	week: 'tydzień',
 	forWholePeriod: 'Razem',
 	saveAmount: 'Zapisz',
 	discount: 'Zniżka',
