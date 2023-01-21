@@ -72,6 +72,12 @@ export default {
 		To już naprawdę pokaźna przestrzeń do przechowywania. Wybierz tę opcję, jeśli potrzebujesz magazynu dla swojego biznesu.
 		`,
 	},
+	tariffs: {
+		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia.',
+		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje najliczona na 6 miesiąc.',
+		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje najliczona na 12 miesiąc.',
+	},
+	insuranceCoverage: 'Ubezpieczenie do kwoty',
 	englishWordOr: 'lub',
 	yourChoice: 'Twój wybór',
 	freeBoxesOfTheRightSize: 'Wolne boksy w odpowiednim rozmiarze',
@@ -93,6 +99,7 @@ export default {
 	payment: 'Rezerwacja',
 	openEndedContractNote: 'Jest to umowa na czas nieokreślony, która będzie trwała do momentu jej anulowania. Wybrany termin reprezentuje Twoją opcję anulowania.',
 	back: 'Powrót',
+	close: 'Zamknij',
 	insuranceWillBeAdded: '+ubezpieczenie',
 	automaticPaymentsText: 'Automatyczna płatność miesięczna',
 	searchHeader: 'Przeszukaj tę mapę',
@@ -109,6 +116,7 @@ export default {
 	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem oraz ubezpieczeniem',
 	twoInitialMonthsInsuranceDescription: '',
 	price: 'Cena',
+	prices: 'Ceny',
 	selectBoxSize: 'Wybierz boks',
 	enterDataAndPayment: 'Zarezerwuj',
 	bookingParams: 'Taryfa',
@@ -145,4 +153,8 @@ export default {
 	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`,
 	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',
+	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href=${link} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
+	cantPreview: (link) => `Nie można wyświetlić podglądu, pobierz <a href=${link}>dokument</a>`,
+	getRoute: 'Uzyskać trasę',
+	externalBoxDescription: (link) => `Wybrany boks wymaga odbioru klucza z recepcji przed wprowadzeniem się ( <a href=${link}>SPRAWDŹ GODZINY OTWARCIA</a> )`
 };

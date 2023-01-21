@@ -36,5 +36,6 @@ export default {
 	stepOne: 'Schritt 1',
 	stepTwo: 'Schritt 2',
 	stepThree: 'Schritt 3',
-	from3rdMonth: 'Ab dem 3. Monat'
+	from3rdMonth: 'Ab dem 3. Monat',
+	cancel: 'Kündigen'
 };

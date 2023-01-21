@@ -6,6 +6,7 @@ export default {
 	paymentPendingDescription: 'Ваш платеж имеет статус: "Обработка платежа". Этот статус означает, что платежная платформа в настоящее время проверяет, может ли ваш платеж быть завершен или нет.',
 	processorTransactionId: 'Номер транзакции',
 	paymentDetails: 'Детали оплаты',
+	cycleBillingDay: 'День оплаты',
 	price: 'Цена',
 	cardHolder: 'Держатель карты',
 	truncatedCardNumber: 'Номер карты',

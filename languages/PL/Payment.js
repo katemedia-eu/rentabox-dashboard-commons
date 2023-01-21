@@ -8,6 +8,7 @@ export default {
 
 	processorTransactionId: 'Identyfikator transakcji',
 	price: 'Cena',
+	cycleBillingDay: 'Dzień rozliczenia cyklu',
 	cardHolder: 'Portfel',
 	truncatedCardNumber: 'Numer karty',
 	myBoxes: 'Moje boksy',
@@ -17,7 +18,7 @@ export default {
 	checkEmail: 'Sprawdź swoją skrzynkę e-mail i podpisz umowę. Może znajdować się w folderze spamu',
 	includeVAT: 'z VAT',
 	vat: 'VAT',
-	pay: 'Płać',
+	pay: 'Opłać fakturę',
 	totalToPayString: 'Łącznie do zapłaty',
 	threeDSecureRedirect: 'Możesz zostać przekierowany na stronę weryfikacji 3D-Secure',
 	errors: {

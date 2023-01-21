@@ -9,6 +9,7 @@ export default {
 	price: 'Price',
 	cardHolder: 'Card holder',
 	truncatedCardNumber: 'Card number',
+	cycleBillingDay: 'Cycle billing day',
 	myBoxes: 'My boxes',
 	book: 'Booking',
 	tryPaymentLater: 'Oops, something went wrong. <br /> Please, check your data and try again later.',

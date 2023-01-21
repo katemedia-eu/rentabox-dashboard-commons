@@ -37,5 +37,6 @@ export default {
 	stepTwo: 'Step 2',
 	stepThree: 'Step 3',
 	from3rdMonth: 'from the 3rd month',
-	optional: 'Optional'
+	optional: 'Optional',
+	cancel: 'Cancel'
 };

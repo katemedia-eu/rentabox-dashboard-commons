@@ -39,4 +39,6 @@ export default {
 	from3rdMonth: 'с 3го месяца',
 	chooseEndDate: 'Выберите дату и время выезда:',
 	endDate: 'Дата выезда',
+	cancel: 'Отменить',
+	extendContract: 'Продлить контракт'
 };

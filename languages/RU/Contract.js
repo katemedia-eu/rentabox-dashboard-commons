@@ -1,5 +1,6 @@
 export default {
 	contractDetails: 'Детали договора',
+	extendContract: 'Вы уверен, что хотите продлить контракт?',
 	invoices: 'Счета',
 	contractNumber: 'Номер договора',
 	contractStatus: 'Статус контракта',

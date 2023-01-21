@@ -45,5 +45,7 @@ export default {
 	download: 'Öffnen',
 	insuranceCoverageAmount: 'Versicherungssumme',
 	insuranceAmount: 'Versicherungsbetrag',
-	regularPayment: 'Reguläre Monatsmiete'
+	regularPayment: 'Reguläre Monatsmiete',
+	netto: 'netto',
+	brutto: 'brutto'
 };

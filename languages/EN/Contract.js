@@ -1,5 +1,8 @@
 export default {
 	contractDetails: 'Сontract details',
+	BoxRentalAgreement: 'Umowa najmu boksu',
+	termsOfUse: 'Terms of use',
+	tenantStatements: 'Tenant\'s statements',
 	invoices: 'Invoices',
 	contractNumber: 'Contract number',
 	contractStatus: 'Contract status',
@@ -48,5 +51,7 @@ export default {
 	download: 'Open',
 	insuranceCoverageAmount: 'Insurance coverage amount',
 	insuranceAmount: 'Insurance amount',
-	regularPayment: 'Regular payment'
+	regularPayment: 'Regular payment',
+	netto: 'netto',
+	brutto: 'brutto'
 };

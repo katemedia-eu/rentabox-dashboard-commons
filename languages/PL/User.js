@@ -1,6 +1,7 @@
 export default {
 	accountDetails: 'Dane dotyczące konta',
 	accountCreation: 'Stwórz konto',
+	lockAvailability: 'Stan zamka',
 	docsAttachmentInfo: 'Użytkownik musi dołączyć zdjęcie dokumentów w koncie osobistym aplikacji mobilnej',
 	userWillReceivePassword: 'Użytkownik otrzyma hasło do poczty',
 	passwordMayBeReset: 'Hasło może zostać zresetowane w formie resetu hasła',
