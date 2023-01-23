@@ -46,5 +46,6 @@ export default {
 	download: 'Скачать',
 	insuranceCoverageAmount: 'Сумма страхового покрытия',
 	insuranceAmount: 'Страховой взнос',
-	regularPayment: 'Регулярный платеж'
+	regularPayment: 'Регулярный платеж',
+	userInvoices: 'Прочие счета'
 };
