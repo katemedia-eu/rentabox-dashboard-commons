@@ -8,6 +8,9 @@ export default {
 	name: 'Imię',
 	sureName: 'Nazwisko',
 	email: 'Email',
+	emailSubject: 'Temat e-mail',
+	emailType: 'Typ e-maila',
+
 	password: 'Hasło',
 	country: 'Kraj',
 	phone: 'Numer telefonu',

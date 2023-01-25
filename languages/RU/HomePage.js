@@ -25,5 +25,7 @@ export default {
 	markAsCompleted: 'пометить как завершённое',
 	completed: 'Завершено',
 	usersImport: 'Импорт пользователей',
-	import: 'Импортировать'
+	import: 'Импортировать',
+
+	emailHistory: 'История писем'
 };

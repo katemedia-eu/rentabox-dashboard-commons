@@ -8,6 +8,8 @@ export default {
 	name: 'Name',
 	sureName: 'Last Name',
 	email: 'Email',
+	emailSubject: 'Email Subject',
+	emailType: 'Email type',
 	password: 'Password',
 	country: 'Country',
 	phone: 'Phone',

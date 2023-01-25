@@ -9,6 +9,9 @@ export default {
 	name: 'Имя',
 	sureName: 'Фамилия',
 	email: 'Email',
+	emailSubject: 'Тема письма',
+	emailType: 'Тип письма',
+
 	password: 'Пароль',
 	country: 'Страна',
 	phone: 'Телефон',
