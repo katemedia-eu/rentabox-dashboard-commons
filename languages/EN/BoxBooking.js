@@ -129,6 +129,7 @@ export default {
 		After you pay invoice whole access to stock and your box will be granted to you.`,
 	reservationId: 'Reservation',
 	expires: 'Expires',
+	expired: 'Reservation expired !',
 	box: 'Box',
 	startRentDate: 'Start rent date',
 	endRentDate: 'End rent date',
