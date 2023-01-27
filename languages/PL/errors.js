@@ -26,6 +26,8 @@ export default {
 	7000: 'Brak płatności',
 	7001: 'Twój profil nie jest zweryfikowany. Nie możesz wykonać tej akcji',
 	7003: 'Data rozpoczęcia umowy jeszcze nie nadeszła',
+	7005: 'Contract is not started',
+
 
 	9000: 'Użytkownik z takim adresem e-mail już istnieje.',
 	9001: 'Niepoprawne dane.',
