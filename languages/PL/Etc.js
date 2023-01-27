@@ -38,5 +38,8 @@ export default {
 	stepThree: 'Krok 3',
 	from3rdMonth: 'od 3 miesiąca',
 	optional: 'Opcjonalnie',
-	cancel: 'Аnulować'
+	cancel: 'Аnulować',
+	heading: 'Pozycja',
+	subHeading: 'Podpozycją',
+	normal: 'Normalny'
 };

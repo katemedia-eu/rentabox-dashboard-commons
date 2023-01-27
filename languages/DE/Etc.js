@@ -37,5 +37,8 @@ export default {
 	stepTwo: 'Schritt 2',
 	stepThree: 'Schritt 3',
 	from3rdMonth: 'Ab dem 3. Monat',
-	cancel: 'Kündigen'
+	cancel: 'Kündigen',
+	heading: 'Überschrift',
+	subHeading: 'Unterposition',
+	normal: 'Üblich'
 };
