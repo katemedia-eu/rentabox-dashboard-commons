@@ -132,7 +132,7 @@ export default {
 		Po opłaceniu faktury cały dostęp do magazynu i skrzynki zostanie Ci przyznany..`,
 	reservationId: 'Identyfikator rezerwacji',
 	expires: 'Rezerwacja wygasa',
-	expired: 'RRezerwacja wygasła !',
+	expired: 'Rezerwacja wygasła !',
 	stockAddess: 'Adres magazynu',
 	box: 'Boks',
 	startRentDate: 'Data rozpoczęcia wynajmu',
