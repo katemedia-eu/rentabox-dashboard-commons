@@ -40,7 +40,7 @@ export default {
 	chooseEndDate: 'Выберите дату и время выезда:',
 	endDate: 'Дата выезда',
 	cancel: 'Отменить',
-	extendContract: 'Продлить контракт',
+	extendContract: 'Продлить договор',
 	heading: 'Заголовок',
 	subHeading: 'Подзаголовок',
 	normal: 'Обычный'

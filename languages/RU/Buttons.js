@@ -10,5 +10,5 @@ export default {
 	reject: 'Отклонить',
 	close: 'Закрыть',
 	notifyLeave: 'Уведомить о дате выезда',
-	notifyExtend: 'Уведомить о продлении контракта'
+	notifyExtend: 'Уведомить о продлении договор'
 };

@@ -69,7 +69,7 @@ export default {
 	user: 'Пользователь',
 	docsAgreement: 'Пользовательское соглашение',
 	payment: 'Оплата',
-	openEndedContractNote: 'Это бессрочный контракт, который будет действовать до тех пор, пока вы его не отмените',
+	openEndedContractNote: 'Это бессрочный договор, который будет действовать до тех пор, пока вы его не отмените',
 	back: 'Назад',
 	insuranceWillBeAdded: '+страховка',
 	automaticPaymentsText: 'Автоматический ежемесячный платеж',
