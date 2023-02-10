@@ -27,5 +27,6 @@ export default {
 	completed: 'Completed',
 	usersImport: 'Import Users',
 	import: 'Import',
-	emailHistory: 'Email History'
+	emailHistory: 'Email History',
+	unpaidDebts: (span_color) => `You have unpaid <span style="color: ${span_color}">debts</span>`,
 };
