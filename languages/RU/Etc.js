@@ -43,5 +43,8 @@ export default {
 	extendContract: 'Продлить договор',
 	heading: 'Заголовок',
 	subHeading: 'Подзаголовок',
-	normal: 'Обычный'
+	normal: 'Обычный',
+	minValueIs: (value) => `Минимальное значение ${value}`,
+	maxValueIs: (value) => `Максимальное значение ${value}`,
+	withoutSpaces: 'Не должно содержать пробелов',
 };

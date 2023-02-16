@@ -41,5 +41,8 @@ export default {
 	cancel: 'Cancel',
 	heading: 'Heading',
 	subHeading: 'Subheading',
-	normal: 'Normal'
+	normal: 'Normal',
+	minValueIs: (value) => `Min value is ${value}`,
+	maxValueIs: (value) => `Man value is ${value}`,
+	withoutSpaces: 'Should have no spaces',
 };

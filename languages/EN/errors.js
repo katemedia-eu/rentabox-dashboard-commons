@@ -7,6 +7,7 @@ export default {
 	1002: 'Password is required',
 	1003: 'Field is required',
 	1004: 'Not allowed symbols number',
+	1005: 'Wrong format',
 
 	5000: 'User has active contracts. Please, check them',
 
