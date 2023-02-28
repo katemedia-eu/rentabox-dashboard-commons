@@ -42,25 +42,25 @@ export default {
 	iHaveReadDocsAndAgree: 'Zapoznałem się z poniższymi aneksami do umowy i akceptuję je w całości.',
 	sizesMeta: {
 		s: `Zmieścisz tutaj: <br />
-		&#183; 20-150 kartonów lub<br />
-		&#183; 2-4 regały, lub<br />
+		&#183; 40-200 kartonów lub<br />
+		&#183; 2-8 regałów, lub<br />
 		&#183; do 4 palet, lub<br />
 		&#183; wyposażenie z pomieszczenia o wielkości do 35 m2<br /> <br />
 		Wybierz tę opcję np. do przechowania rzeczy sezonowych czy pamiątek rodzinnych albo małego, firmowego archiwum.
 		`,
 		m: `
 		Zmieścisz tutaj:<br />
-			&#183; 200-300 kartonów lub<br />
-			&#183; 5-8 regałów, lub<br />
-			&#183; 4-6 palet, lub<br />
+			&#183; 210-300 kartonów lub<br />
+			&#183; 9- 14 regałów, lub<br />
+			&#183; do 7 palet, lub<br />
 			&#183; wyposażenie z pomieszczenia o wielkości do 50 m2<br /> <br />
 		Sprawdzi się np. w trakcie remontu całego mieszkania czy biura lub przeprowadzki, a także w przypadku niedużego sklepu internetowego.
 		`,
 		l: `
 		Zmieścisz tutaj: <br />
-		&#183; 400-600 kartonów lub <br />
-		&#183; 6-10 regałów, lub <br />
-		&#183; 9-15 palet, lub <br />
+		&#183; 320-1020 kartonów lub <br />
+		&#183; 15 - 35 regałów, lub <br />
+		&#183; do 18 palet, lub <br />
 		&#183; wyposażenie z pomieszczenia o wielkości do 80 m2 <br /> <br />
 		Idealne rozwiązanie dla małych i średnich firm oraz kiedy opróżniasz ponad 100-metrowy budynek.
 		`,

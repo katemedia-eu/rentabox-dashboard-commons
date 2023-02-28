@@ -42,23 +42,23 @@ export default {
 	iHaveReadDocsAndAgree: 'I have read the following additions to the contract and accept them in full.',
 	sizesMeta: {
 		s: `You can fit here: <br />
-		&#183; 20-150 cartons/boxes or<br />
-		&#183; 2-4 shelving units or<br />
+		&#183; 40-200 cartons/boxes or<br />
+		&#183; 2-8 shelving units or<br />
 		&#183; up to 4 pallets or<br />
 		&#183; equipment from room of up to 35m2<br /> <br />
 		Choose this option for example to store seasonal things, family souvenirs or small company archive.
 		`,
 		m: `You can fit here: <br />
-		&#183; 200-300 cartons or<br />
-		&#183; 5-8 shelving units or<br />
-		&#183; 4-6 pallets<br />
+		&#183; 210-300 cartons or<br />
+		&#183; 9-14 shelving units or<br />
+		&#183; do 7 pallets<br />
 		&#183; equipment from room of up to 50m2<br /> <br />
 		This is going to work if you are renovating the whole apartment or office, if you are moving or if you have a small internet store.
 		`,
 		l: `You can fit here: <br />
-		&#183; 400-600 cartons or<br />
-		&#183; 6-10 shelving units or<br />
-		&#183; 9-15 pallets or<br />
+		&#183; 320-1020 cartons or<br />
+		&#183; 15-35 shelving units or<br />
+		&#183; do 18 pallets or<br />
 		&#183; equipment from apartment of up to 80m2<br /> <br />
 		Perfect solution for small and medium companies and if you are emptying a 100m building.
 		`,
