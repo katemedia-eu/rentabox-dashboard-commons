@@ -117,5 +117,13 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 	zoomOut: 'Verkleinern',
 	stretch: 'Strecken',
 	haveAnAccount: 'Habe bereits ein Konto?',
-	useAutoPayments: 'Automatische Zahlungen zulassen'
+	useAutoPayments: 'Automatische Zahlungen zulassen',
+	oneEuroActionDescription: 'Unsere 1€ Aktion ist nur für Neukunden bei einer Mindestmietdauer von 2 Monaten gültig.',
+	oneEuroActionWasRemoved: `
+		<h4>Sehr geehrte Damen und Herren,</h4>
+		die 1€ Aktion wurde aus Ihrer Buchung entfernt, da diese nur für Neukunden bei einer Mindestmietdauer von 2 Monaten gültig ist.<br />
+		Wir bitten um Verständnis.<br /><br />
+		Mit freundlichen Grüßen<br />
+		Ihr Top Box Team!<br />
+	`
 };

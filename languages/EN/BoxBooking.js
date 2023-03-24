@@ -125,5 +125,13 @@ export default {
 	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href=${link} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
 	cantPreview: (link) => `Can't preview, download <a href=${link}>document</a>`,
 	getRoute: 'Get route',
-	useAutoPayments: 'Allow autopayments'
+	useAutoPayments: 'Allow autopayments',
+	oneEuroActionDescription: 'Our €1 promotion is only valid for new customers with a minimum rental period of 2 months.',
+	oneEuroActionWasRemoved: `
+	<h4>Dear Sir or Madam,</h4>
+		The €1 promotion has been removed from your booking as it is only valid for new customers with a minimum rental period of 2 months.<br />
+		Thank you for understanding.<br /><br />
+		Sincerely<br />
+		Your Top Box Team!<br />
+	`
 };
