@@ -38,5 +38,11 @@ export default {
 	stepThree: 'Step 3',
 	from3rdMonth: 'from the 3rd month',
 	optional: 'Optional',
-	cancel: 'Cancel'
+	cancel: 'Cancel',
+	heading: 'Heading',
+	subHeading: 'Subheading',
+	normal: 'Normal',
+	minValueIs: (value) => `Min value is ${value}`,
+	maxValueIs: (value) => `Man value is ${value}`,
+	withoutSpaces: 'Should have no spaces',
 };

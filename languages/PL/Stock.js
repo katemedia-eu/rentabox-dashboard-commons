@@ -84,6 +84,7 @@ export default {
 	width: 'Szerokość',
 	depth: 'Głębokość',
 	square: 'Powierzchnia',
+	boxSpace: 'Powierzchnia',
 	wifiNetworkName: 'Nazwa sieci Wi-Fi',
 	gate: 'Brama'
 };

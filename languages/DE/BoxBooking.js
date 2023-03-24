@@ -45,6 +45,12 @@ export default {
 		l: 'Ausreichend für den Hausrat von 100 m² bis 200 m² oder für das Archiv von 165 bis 320 Kartons',
 		xl: 'Ausreichend für den Hausrat von 200 m² bis 300 m² oder für das Archiv von 330 bis 480 Kartons'
 	},
+	tariffs: {
+		basic: 'Monatliche Rate für einen unbefristeten Vertrag mit 21 Tagen Kündigungsfrist.',
+		smart: 'Durchschnittliche monatliche Rate bei einem befristeten Vertrag über eine Laufzeit von 6 bis 11 Monaten. Die 30 % Rabatt werden für den 6. Monat berechnet.',
+		max: 'Durchschnittliche monatliche Rate bei einem befristeten Vertrag über 12 Monate. Der Rabatt von 65 % wird für den 12. Monat berechnet.',
+	},
+	insuranceCoverage: 'Versicherungsschutz',
 	englishWordOr: 'oder',
 	yourChoice: 'Ausgewählt',
 	freeBoxesOfTheRightSize: 'Verfügbar',
@@ -80,6 +86,7 @@ export default {
 	forTwoInitialMonths: 'Für die ersten 2 Monate',
 	twoInitialMonthsInsuranceDescription: 'inkl. Lagerversicherung',
 	price: 'Preis',
+	prices: 'Preise',
 	selectBoxSize: 'LAGERRAUM WÄHLEN',
 	enterDataAndPayment: 'DATENEINGABE & BEZAHLUNG',
 	bookingParams: 'DATENEINGABE',

@@ -1,12 +1,17 @@
 export default {
 	accountDetails: 'Детали аккаунта',
 	accountCreation: 'Создание аккаунта',
+	lockAvailability: 'Состояние замка',
+
 	docsAttachmentInfo: 'Пользователю необходимо присоединить фото документов в личном кабинете мобильного приложения',
 	userWillReceivePassword: 'Пользователь получит пароль на почту',
 	passwordMayBeReset: 'Пароль может быть сброшен в форме сброса пароля',
 	name: 'Имя',
 	sureName: 'Фамилия',
 	email: 'Email',
+	emailSubject: 'Тема письма',
+	emailType: 'Тип письма',
+
 	password: 'Пароль',
 	country: 'Страна',
 	phone: 'Телефон',
@@ -25,7 +30,7 @@ export default {
 	resetPassword: 'Сбросить пароль',
 	passwordWillBeSentToMail: 'Пароль будет выслан на почту',
 	addAccount: 'Добавить аккаунт',
-	contracts: 'Контракты',
+	contracts: 'Договоры',
 	checkPhotosInfoBlock: 'Проверьте фото паспорта. Для этого нажмите на фото. Если c фотографиями и данными все в порядке - нажмите Верифицировать.',
 	selfieWasNotUploaded: 'Селфи с паспортом не было загружено',
 	selfieWasRejected: 'Фото селфи было отклонено.',
@@ -51,7 +56,7 @@ export default {
 	companyRequired: 'Компанию',
 	client: 'Клиент',
 	currentClient: 'Текущий клиент',
-	goToContracts: 'Перейти к контрактам',
+	goToContracts: 'Перейти к договорам',
 	passwordConfirmation: 'Подтверждение пароля',
 	passwordChanged: 'Пароль изменен',
 	passwordWasSuccessfullyChanged: 'Пароль был успешно изменен',
@@ -74,5 +79,8 @@ export default {
 	extraPhotoWasNotUploaded: 'Фото страницы прописки не было загружено',
 	extraPhotoWasRejected: 'Фото страницы прописки было отклонено',
 	showPassword: 'Показать пароль',
-	hidePassword: 'Скрыть пароль'
+	hidePassword: 'Скрыть пароль',
+	opened: 'Открыт',
+	closed: 'Закрыт',
+	unavailable: 'Недоступен'
 };

@@ -29,6 +29,7 @@ export default {
 	step2SelectTheSizeOfTheBox: 'Krok 2. Wybierz rozmiar boksu',
 	step3SelectABoxOnTheMap: 'Krok 3. Wybierz boks na mapie',
 	month: 'miesiąc',
+	week: 'tydzień',
 	forWholePeriod: 'Razem',
 	saveAmount: 'Zapisz',
 	discount: 'Zniżka',
@@ -41,25 +42,25 @@ export default {
 	iHaveReadDocsAndAgree: 'Zapoznałem się z poniższymi aneksami do umowy i akceptuję je w całości.',
 	sizesMeta: {
 		s: `Zmieścisz tutaj: <br />
-		&#183; 20-150 kartonów lub<br />
-		&#183; 2-4 regały, lub<br />
+		&#183; 40-200 kartonów lub<br />
+		&#183; 2-8 regałów, lub<br />
 		&#183; do 4 palet, lub<br />
 		&#183; wyposażenie z pomieszczenia o wielkości do 35 m2<br /> <br />
 		Wybierz tę opcję np. do przechowania rzeczy sezonowych czy pamiątek rodzinnych albo małego, firmowego archiwum.
 		`,
 		m: `
 		Zmieścisz tutaj:<br />
-			&#183; 200-300 kartonów lub<br />
-			&#183; 5-8 regałów, lub<br />
-			&#183; 4-6 palet, lub<br />
+			&#183; 210-300 kartonów lub<br />
+			&#183; 9- 14 regałów, lub<br />
+			&#183; do 7 palet, lub<br />
 			&#183; wyposażenie z pomieszczenia o wielkości do 50 m2<br /> <br />
 		Sprawdzi się np. w trakcie remontu całego mieszkania czy biura lub przeprowadzki, a także w przypadku niedużego sklepu internetowego.
 		`,
 		l: `
 		Zmieścisz tutaj: <br />
-		&#183; 400-600 kartonów lub <br />
-		&#183; 6-10 regałów, lub <br />
-		&#183; 9-15 palet, lub <br />
+		&#183; 320-1020 kartonów lub <br />
+		&#183; 15 - 35 regałów, lub <br />
+		&#183; do 18 palet, lub <br />
 		&#183; wyposażenie z pomieszczenia o wielkości do 80 m2 <br /> <br />
 		Idealne rozwiązanie dla małych i średnich firm oraz kiedy opróżniasz ponad 100-metrowy budynek.
 		`,
@@ -72,6 +73,12 @@ export default {
 		To już naprawdę pokaźna przestrzeń do przechowywania. Wybierz tę opcję, jeśli potrzebujesz magazynu dla swojego biznesu.
 		`,
 	},
+	tariffs: {
+		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia.',
+		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje najliczona na 6 miesiąc.',
+		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje najliczona na 12 miesiąc.',
+	},
+	insuranceCoverage: 'Ubezpieczenie do kwoty',
 	englishWordOr: 'lub',
 	yourChoice: 'Twój wybór',
 	freeBoxesOfTheRightSize: 'Wolne boksy w odpowiednim rozmiarze',
@@ -110,6 +117,7 @@ export default {
 	forInitialServicePeriod: 'Pierwsza wpłata wraz ze zwrotnym depozytem oraz ubezpieczeniem',
 	twoInitialMonthsInsuranceDescription: '',
 	price: 'Cena',
+	prices: 'Ceny',
 	selectBoxSize: 'Wybierz boks',
 	enterDataAndPayment: 'Zarezerwuj',
 	bookingParams: 'Taryfa',
@@ -124,6 +132,7 @@ export default {
 		Po opłaceniu faktury cały dostęp do magazynu i skrzynki zostanie Ci przyznany..`,
 	reservationId: 'Identyfikator rezerwacji',
 	expires: 'Rezerwacja wygasa',
+	expired: 'Rezerwacja wygasła !',
 	stockAddess: 'Adres magazynu',
 	box: 'Boks',
 	startRentDate: 'Data rozpoczęcia wynajmu',
@@ -149,4 +158,5 @@ export default {
 	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href=${link} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
 	cantPreview: (link) => `Nie można wyświetlić podglądu, pobierz <a href=${link}>dokument</a>`,
 	getRoute: 'Uzyskać trasę',
+	externalBoxDescription: (link) => `Wybrany boks wymaga odbioru klucza z recepcji przed wprowadzeniem się ( <a href=${link}>SPRAWDŹ GODZINY OTWARCIA</a> )`
 };

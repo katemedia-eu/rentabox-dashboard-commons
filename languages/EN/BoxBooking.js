@@ -4,7 +4,7 @@ export default {
 	stock: 'Stock',
 	address: 'Address',
 	aip: 'Zip',
-	selectStock: 'Select stock',
+	selectStock: 'Check location',
 	boxesAvailable: 'Boxes available',
 	totalBoxesNumberAtStock: 'Total boxes at stock',
 	sizes: 'Sizes',
@@ -29,6 +29,7 @@ export default {
 	step2SelectTheSizeOfTheBox: 'Step 2. Select the size of the box',
 	step3SelectABoxOnTheMap: 'Step 3. Select a box on the map',
 	month: 'month',
+	week: 'week',
 	forWholePeriod: 'Total',
 	saveAmount: 'Save',
 	discount: 'Discount',
@@ -40,11 +41,41 @@ export default {
 	reserveViaBankTransfer: 'Book using bank transfer',
 	iHaveReadDocsAndAgree: 'I have read the following additions to the contract and accept them in full.',
 	sizesMeta: {
-		s: 'Sufficient for household items up to 50 m² or for the archive up to 80 boxes',
-		m: 'Sufficient for household items from 55 m² to 100 m² or for the archive from 85 to 160 boxes',
-		l: 'Sufficient for household items from 100 m² to 200 m² or for the archive from 165 to 320 boxes',
-		xl: 'Sufficient for household goods from 200 m² to 300 m² or for the archive from 330 to 480 boxes'
+		s: `You can fit here: <br />
+		&#183; 40-200 cartons/boxes or<br />
+		&#183; 2-8 shelving units or<br />
+		&#183; up to 4 pallets or<br />
+		&#183; equipment from room of up to 35m2<br /> <br />
+		Choose this option for example to store seasonal things, family souvenirs or small company archive.
+		`,
+		m: `You can fit here: <br />
+		&#183; 210-300 cartons or<br />
+		&#183; 9-14 shelving units or<br />
+		&#183; do 7 pallets<br />
+		&#183; equipment from room of up to 50m2<br /> <br />
+		This is going to work if you are renovating the whole apartment or office, if you are moving or if you have a small internet store.
+		`,
+		l: `You can fit here: <br />
+		&#183; 320-1020 cartons or<br />
+		&#183; 15-35 shelving units or<br />
+		&#183; do 18 pallets or<br />
+		&#183; equipment from apartment of up to 80m2<br /> <br />
+		Perfect solution for small and medium companies and if you are emptying a 100m building.
+		`,
+		xl: `You can fit here: <br />
+		&#183; 700-1000 cartons or<br />
+		&#183; 10-15 shelving units or<br />
+		&#183; 15-20 pallets or<br />
+		&#183; equipment from room of up to 100m2<br /> <br />
+		This is a really big space. Choose this option if you need a storage for your business.
+		`,
 	},
+	tariffs: {
+		basic: 'Monthly rate for an open-ended contract with 21-days notice period.',
+		smart: 'Average monthly rate for a fixed-term contract for a period of 6 to 11 months. The 30% discount is calculated for the 6th month.',
+		max: 'Average monthly rate for a fixed-term contract for 12 months. The 65% discount is calculated for the 12th month.',
+	},
+	insuranceCoverage: 'Insurance coverage',
 	englishWordOr: 'or',
 	yourChoice: 'Your choice',
 	freeBoxesOfTheRightSize: 'Free boxes of the right size',
@@ -55,6 +86,7 @@ export default {
 	bookAndPay: 'Book and pay',
 	choiceOfArrivalDateTitle: 'Move-in date',
 	choiceOfArrivalDateText: 'When do you need your box',
+	choiceOfDepartureDateTitle: 'Move out date',
 	choiceOfArrivalDatePlaceholder: 'Choose a date',
 	successTitle: ['Congratulations!', 'Box has been successfully reserved.'],
 	successText: 'Please, check your e-mail and sign a contract. It can be inside spam folder. Box will be available from the date of the contract after payment of the invoice.',
@@ -79,13 +111,14 @@ export default {
 	boxNumber: 'Box number',
 	minimalRentPeriodDescription: 'Minimum rental period 2 months',
 	forTwoInitialMonths: 'For the first 2 months',
-	forInitialServicePeriod: 'For initial service period',
+	forInitialServicePeriod: 'Your first invoice will conclude a refundable deposit and insurance fee',
 	twoInitialMonthsInsuranceDescription: 'incl. storage insurance',
 	price: 'Price',
+	prices: 'Prices',
 	selectBoxSize: 'Select box size',
 	enterDataAndPayment: 'Enter data & payment',
 	bookingParams: 'Enter data',
-	reserveOrPay: 'Pay',
+	reserveOrPay: 'Book or pay',
 	andPayLater: 'Und später bezahlen',
 	payLaterDesctiption: 'You will find invoice in your account',
 	contactSource: 'How did you find out about us',
@@ -96,10 +129,11 @@ export default {
 		After you pay invoice whole access to stock and your box will be granted to you.`,
 	reservationId: 'Reservation',
 	expires: 'Expires',
+	expired: 'Reservation expired !',
 	box: 'Box',
 	startRentDate: 'Start rent date',
 	endRentDate: 'End rent date',
-	initialPayment: 'Initial payment',
+	initialPayment: 'The first payment including refundable deposit',
 	enterIntoContract: 'Enter into contract',
 	details: 'Details',
 	rentalCost: 'Rental cost',
@@ -120,7 +154,7 @@ export default {
 	stretch: 'Stretch',
 	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
 	paymentFromSecondMonth: 'Payment from second month',
-	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth} month with ${discountPercent}% discount`,
+	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth}th month with ${discountPercent}% discount`,
 	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
 	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href=${link} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
 	cantPreview: (link) => `Can't preview, download <a href=${link}>document</a>`,
@@ -133,5 +167,6 @@ export default {
 		Thank you for understanding.<br /><br />
 		Sincerely<br />
 		Your Top Box Team!<br />
-	`
+	`,
+	externalBoxDescription: (link) => `The selected box requires receiving the key from the reception before moving in ( <a href=${link}>CHECK OPENING HOURS</a> )`
 };

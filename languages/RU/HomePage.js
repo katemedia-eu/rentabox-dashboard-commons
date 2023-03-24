@@ -25,5 +25,8 @@ export default {
 	markAsCompleted: 'пометить как завершённое',
 	completed: 'Завершено',
 	usersImport: 'Импорт пользователей',
-	import: 'Импортировать'
+	import: 'Импортировать',
+
+	emailHistory: 'История писем',
+	unpaidDebts: (span_color) => `У Вас есть неоплаченные <span style="color: ${span_color}">задолженности</span>`,
 };

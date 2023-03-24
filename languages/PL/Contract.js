@@ -1,5 +1,8 @@
 export default {
 	contractDetails: 'Szczegóły umowy',
+	BoxRentalAgreement: 'Umowa najmu boksu',
+	termsOfUse: 'Warunki korzystania',
+	tenantStatements: 'Oświadczenia najemcy',
 	invoices: 'Faktury',
 	contractNumber: 'Numer umowy',
 	contractStatus: 'Status umowy',

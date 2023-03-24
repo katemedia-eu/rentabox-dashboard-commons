@@ -26,5 +26,7 @@ export default {
 	markAsCompleted: 'Oznacz jako ukończone',
 	completed: 'Zakończony',
 	usersImport: 'Importuj użytkowników',
-	import: 'Importuj'
+	import: 'Importuj',
+
+	emailHistory: 'Historia e-maili'
 };

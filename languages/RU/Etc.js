@@ -39,5 +39,13 @@ export default {
 	from3rdMonth: 'с 3го месяца',
 	chooseEndDate: 'Выберите дату и время выезда:',
 	endDate: 'Дата выезда',
-	cancel: 'Отменить'
+	cancel: 'Отменить',
+	extendContract: 'Продлить договор',
+	heading: 'Заголовок',
+	subHeading: 'Подзаголовок',
+	normal: 'Обычный',
+	minValueIs: (value) => `Минимальное значение ${value}`,
+	maxValueIs: (value) => `Максимальное значение ${value}`,
+	withoutSpaces: 'Не должно содержать пробелов',
+	acceptsFiles: (value) => `Допустимый формат файлов: ${value}`
 };

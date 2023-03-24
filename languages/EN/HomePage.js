@@ -26,5 +26,7 @@ export default {
 	markAsCompleted: 'mark as completed',
 	completed: 'Completed',
 	usersImport: 'Import Users',
-	import: 'Import'
+	import: 'Import',
+	emailHistory: 'Email History',
+	unpaidDebts: (span_color) => `You have unpaid <span style="color: ${span_color}">debts</span>`,
 };

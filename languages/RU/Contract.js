@@ -1,11 +1,12 @@
 export default {
 	contractDetails: 'Детали договора',
+	extendContract: 'Вы уверен, что хотите продлить договор?',
 	invoices: 'Счета',
 	contractNumber: 'Номер договора',
-	contractStatus: 'Статус контракта',
-	userContracts: 'Контракты пользователя',
+	contractStatus: 'Статус договора',
+	userContracts: 'Договоры пользователя',
 	attention: 'Внимание',
-	closingContractConition: 'Контракт может быть закрыт только после того, как клиент заберет свои вещи из бокса.',
+	closingContractConition: 'Договор может быть закрыт только после того, как клиент заберет свои вещи из бокса.',
 	square: 'Площадь',
 	period: 'Период',
 	startDate: 'Дата заключения',
@@ -31,9 +32,9 @@ export default {
 	comment: 'Комментарий',
 	withDiscount: 'со скидкой',
 	inclVAT: 'с учетом НДС',
-	areYouSureYouWantToCloseContract: 'Вы уверены, что хотите закрыть контракт?',
+	areYouSureYouWantToCloseContract: 'Вы уверены, что хотите закрыть договор?',
 	contractEndingDate: 'Дата окончания',
-	endingContracts: 'Заканчивающиеся контракты',
+	endingContracts: 'Заканчивающиеся договоры',
 	didNotNotified: 'Клиент не уведомлял о выезде',
 	invoiceIsPaid: 'Инвойс оплачен',
 	sentInvoiceEmailNotification: 'Отправить Email',
@@ -45,5 +46,6 @@ export default {
 	download: 'Скачать',
 	insuranceCoverageAmount: 'Сумма страхового покрытия',
 	insuranceAmount: 'Страховой взнос',
-	regularPayment: 'Регулярный платеж'
+	regularPayment: 'Регулярный платеж',
+	userInvoices: 'Прочие счета'
 };
