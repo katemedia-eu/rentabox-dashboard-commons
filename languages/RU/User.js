@@ -82,5 +82,6 @@ export default {
 	hidePassword: 'Скрыть пароль',
 	opened: 'Открыт',
 	closed: 'Закрыт',
-	unavailable: 'Недоступен'
+	unavailable: 'Недоступен',
+	bigSizeDocWarn: 'Если документ не просматривается, то попробуйте его скачать и открыть',
 };
