@@ -47,5 +47,6 @@ export default {
 	minValueIs: (value) => `Минимальное значение ${value}`,
 	maxValueIs: (value) => `Максимальное значение ${value}`,
 	withoutSpaces: 'Не должно содержать пробелов',
-	acceptsFiles: (value) => `Допустимый формат файлов: ${value}`
+	acceptsFiles: (value) => `Допустимый формат файлов: ${value}`,
+	extensionDescription: 'Заявка на продление уже отправлена'
 };
