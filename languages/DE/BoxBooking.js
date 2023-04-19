@@ -45,6 +45,12 @@ export default {
 		l: 'Ausreichend für den Hausrat von 100 m² bis 200 m² oder für das Archiv von 165 bis 320 Kartons',
 		xl: 'Ausreichend für den Hausrat von 200 m² bis 300 m² oder für das Archiv von 330 bis 480 Kartons'
 	},
+	sizesMetaTBDE: {
+		s: 'Ausreichend für den Hausrat bis zu 50 m² oder für das Archiv bis zu 80 Kartons',
+		m: 'Ausreichend für den Hausrat von 55 m² bis 100 m² oder für das Archiv von 85 bis 160 Kartons',
+		l: 'Ausreichend für den Hausrat von 100 m² bis 200 m² oder für das Archiv von 165 bis 320 Kartons',
+		xl: 'Ausreichend für den Hausrat von 200 m² bis 300 m² oder für das Archiv von 330 bis 480 Kartons'
+	},
 	tariffs: {
 		basic: 'Monatliche Rate für einen unbefristeten Vertrag mit 21 Tagen Kündigungsfrist.',
 		smart: 'Durchschnittliche monatliche Rate bei einem befristeten Vertrag über eine Laufzeit von 6 bis 11 Monaten. Die 30 % Rabatt werden für den 6. Monat berechnet.',

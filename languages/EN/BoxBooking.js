@@ -70,6 +70,12 @@ export default {
 		This is a really big space. Choose this option if you need a storage for your business.
 		`,
 	},
+	sizesMetaTBDE: {
+		s: 'Sufficient for household items up to 50 m² or for the archive up to 80 boxes',
+		m: 'Sufficient for household items from 55 m² to 100 m² or for the archive from 85 to 160 boxes',
+		l: 'Sufficient for household items from 100 m² to 200 m² or for the archive from 165 to 320 boxes',
+		xl: 'Sufficient for household goods from 200 m² to 300 m² or for the archive from 330 to 480 boxes'
+	},
 	tariffs: {
 		basic: 'Monthly rate for an open-ended contract with 21-days notice period.',
 		smart: 'Average monthly rate for a fixed-term contract for a period of 6 to 11 months. The 30% discount is calculated for the 6th month.',
