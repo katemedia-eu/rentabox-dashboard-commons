@@ -27,6 +27,6 @@ export default {
 	completed: 'Zakończony',
 	usersImport: 'Importuj użytkowników',
 	import: 'Importuj',
-
-	emailHistory: 'Historia e-maili'
+	emailHistory: 'Historia e-maili',
+	unpaidDebts: (span_color) => `Masz nieopłacone <span style="color: ${span_color}">faktury</span>.`,
 };

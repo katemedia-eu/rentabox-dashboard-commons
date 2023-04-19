@@ -53,5 +53,6 @@ export default {
 	insuranceAmount: 'Insurance amount',
 	regularPayment: 'Regular payment',
 	netto: 'netto',
-	brutto: 'brutto'
+	brutto: 'brutto',
+	userInvoices: 'User unpaid invoices'
 };

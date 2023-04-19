@@ -51,5 +51,6 @@ export default {
 	download: 'Ściągnij',
 	insuranceCoverageAmount: 'Kwota ubezpieczenia',
 	insuranceAmount: 'Suma ubezpieczenia',
-	regularPayment: 'Regularna płatność'
+	regularPayment: 'Regularna płatność',
+	userInvoices: 'Nieopłacone faktury'
 };
