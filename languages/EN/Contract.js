@@ -3,7 +3,7 @@ export default {
 	BoxRentalAgreement: 'Umowa najmu boksu',
 	termsOfUse: 'Terms of use',
 	tenantStatements: 'Tenant\'s statements',
-	invoices: 'Invoices',
+	invoices: 'Contract invoices',
 	contractNumber: 'Contract number',
 	contractStatus: 'Contract status',
 	userContracts: 'User Contracts',
@@ -54,5 +54,5 @@ export default {
 	regularPayment: 'Regular payment',
 	netto: 'netto',
 	brutto: 'brutto',
-	userInvoices: 'User unpaid invoices'
+	otherInvoices: 'Other invoices'
 };

@@ -3,7 +3,7 @@ export default {
 	BoxRentalAgreement: 'Umowa najmu boksu',
 	termsOfUse: 'Warunki korzystania',
 	tenantStatements: 'Oświadczenia najemcy',
-	invoices: 'Faktury',
+	invoices: 'Faktury do umowy',
 	contractNumber: 'Numer umowy',
 	contractStatus: 'Status umowy',
 	userContracts: 'Umowy użytkownika',
@@ -52,5 +52,5 @@ export default {
 	insuranceCoverageAmount: 'Kwota ubezpieczenia',
 	insuranceAmount: 'Suma ubezpieczenia',
 	regularPayment: 'Regularna płatność',
-	userInvoices: 'Nieopłacone faktury'
+	otherInvoices: 'Inne faktury'
 };
