@@ -90,5 +90,7 @@ export default {
 	openingTime: 'Время открытия',
 	closingTime: 'Время закрытия',
 	wifiNetworkName: 'Имя сети Wi-Fi',
-	gate: 'Ворота'
+	gate: 'Ворота',
+	notifyOpenDoor: 'Чтобы открыть дверь, необходимо подключиться к Wi-Fi склада и отключить VPN!',
+	notifyOpenLock: 'Чтобы открыть замок, необходимо подключиться к Wi-Fi склада и отключить VPN! '
 };

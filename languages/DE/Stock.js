@@ -83,5 +83,7 @@ export default {
 	openingTime: 'Öffnungszeit',
 	closingTime: 'Geschäftsschluss',
 	wifiNetworkName: 'WLAN-Netzwerkname',
-	gate: 'Tore'
+	gate: 'Tore',
+	notifyOpenDoor: 'Um die Tür zu öffnen, muss man sich an das WLAN des Lagers anschließen und das VPN ausschalten!',
+	notifyOpenLock: 'Um das Schloss zu öffnen, muss man sich an das WLAN des Lagers anschließen und das VPN ausschalten!'
 };
