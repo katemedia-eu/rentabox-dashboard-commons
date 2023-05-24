@@ -138,5 +138,7 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 		Wir bitten um Verständnis.<br /><br />
 		Mit freundlichen Grüßen<br />
 		Ihr Top Box Team!<br />
-	`
+	`,
+	andDeposit: 'und Kaution',
+	depositWillBeReturned: (amount) => `Die Kaution (${amount} €)  wird Ihnen nach Vertragsende zurückerstattet.`
 };
