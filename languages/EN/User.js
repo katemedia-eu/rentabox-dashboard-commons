@@ -75,5 +75,7 @@ export default {
 	woman: 'Mrs.',
 	pinCode: 'Pin code',
 	showPassword: 'Show password',
-	hidePassword: 'Hide password'
+	hidePassword: 'Hide password',
+	opened: 'Opened',
+	closed: 'Closed',
 };
