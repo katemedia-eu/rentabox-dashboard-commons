@@ -20,4 +20,6 @@ export default {
 	success: 'Success',
 	info: 'Info',
 	danger: 'Danger',
+	boxLeavedOpened: 'Box leaved opened!',
+	boxLeavedOpenedDescription: 'is open more than 20 minutes! Please, check'
 };
