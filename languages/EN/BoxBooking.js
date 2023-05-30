@@ -177,5 +177,6 @@ export default {
 	externalBoxDescription: (link) => `The selected box requires receiving the key from the reception before moving in ( <a href=${link}>CHECK OPENING HOURS</a> )`,
 	viewThisbox: 'View this box ->',
 	andDeposit: 'and Deposit',
-	depositWillBeReturned: (amount) => `The security deposit (${amount}€) will be returned back to you after contract is terminated`
+	depositWillBeReturned: (amount) => `The security deposit (${amount}€) will be returned back to you after contract is terminated`,
+	includedInsuranceFull: 'Including insurance'
 };

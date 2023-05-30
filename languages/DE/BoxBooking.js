@@ -140,5 +140,6 @@ Nachdem Sie die Rechnung bezahlt haben, wird Ihnen der gesamte Zugriff auf das L
 		Ihr Top Box Team!<br />
 	`,
 	andDeposit: 'und Kaution',
-	depositWillBeReturned: (amount) => `Die Kaution (${amount} €)  wird Ihnen nach Vertragsende zurückerstattet.`
+	depositWillBeReturned: (amount) => `Die Kaution (${amount} €)  wird Ihnen nach Vertragsende zurückerstattet.`,
+	includedInsuranceFull: 'Inkl. Lagerversicherung'
 };
