@@ -20,4 +20,7 @@ export default {
 	success: 'Suckces',
 	info: 'Informacja',
 	danger: 'Niebezpieczeństwo',
+	boxLeavedOpened: 'Boks pozostał otwarty!',
+	boxLeavedOpenedDescription: 'pozostał otwarty przez ponad 20 minut. Proszę sprawdzić!'
+	
 };

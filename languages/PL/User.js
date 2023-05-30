@@ -78,5 +78,7 @@ export default {
 	pinCode: 'kod pin',
 	houseRequired: 'Wymagane',
 	showPassword: 'Pokaż hasło',
-	hidePassword: 'Ukryj hasło'
+	hidePassword: 'Ukryj hasło',
+	opened: 'Otwarte',
+	closed: 'Zamknięte',
 };
