@@ -10,7 +10,7 @@ export default {
 	passportPhoto: 'Фото главного разворота паспорта',
 	selfieWithPassport: 'Фото селфи с главным разворотом паспорта',
 	legalDocumentPhoto: 'Фото свидетельства ОГРН',
-	addressDocumentPhoto: 'Фото страницы регистрации',
+	addressDocumentPhoto: 'Фото страницы регистрации в паспорте',
 	rejectedDocuments: 'Ваши документы были отклонены!',
 	redirectToUploadDocuments: 'Перейти к загрузке документов'
 
