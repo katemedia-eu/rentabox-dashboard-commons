@@ -76,5 +76,7 @@ export default {
 	invoiceNumber: 'Numer faktury',
 	amount: 'Kwota',
 	system: 'System',
-	date: 'Data'
+	date: 'Data',
+	subscriptionIsActive: 'Subskrypcja płatności jest aktywna !',
+	cancelSubscription: 'Anuluj subskrypcje',
 };
