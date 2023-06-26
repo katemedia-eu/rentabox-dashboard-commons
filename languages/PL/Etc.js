@@ -41,5 +41,7 @@ export default {
 	cancel: 'Аnulować',
 	heading: 'Pozycja',
 	subHeading: 'Podpozycją',
-	normal: 'Normalny'
+	normal: 'Normalny',
+	of: 'z',
+	remains: 'Pozostaje'
 };

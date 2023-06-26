@@ -45,4 +45,6 @@ export default {
 	minValueIs: (value) => `Min value is ${value}`,
 	maxValueIs: (value) => `Man value is ${value}`,
 	withoutSpaces: 'Should have no spaces',
+	of: 'of',
+	remains: 'Remains'
 };
