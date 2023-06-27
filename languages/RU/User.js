@@ -76,7 +76,7 @@ export default {
 	houseRequired: 'Обязательно',
 	pinCode: 'Пин код',
 	extraDocWasNotUploaded: 'Фото свидетельства ОГРН не было загружено',
-	extraDocWasRejected: 'Фото свидетельства ОГРН было отклонено',
+	extraPhotoWasRejected: 'Фото свидетельства ОГРН было отклонено',
 	addressPhotoWasNotUploaded: 'Фото страницы прописки не было загружено',
 	addressPhotoWasRejected: 'Фото страницы прописки было отклонено',
 	showPassword: 'Показать пароль',
