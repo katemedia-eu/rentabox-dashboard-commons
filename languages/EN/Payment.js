@@ -78,5 +78,7 @@ export default {
 	invoiceNumber: 'Invoice Number',
 	amount: 'Amount',
 	system: 'System',
-	date: 'Date'
+	date: 'Date',
+	subscriptionIsActive: 'Payment subscription is active !',
+	cancelSubscription: 'Cancel subscription',
 };
