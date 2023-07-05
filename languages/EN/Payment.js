@@ -81,4 +81,7 @@ export default {
 	date: 'Date',
 	subscriptionIsActive: 'Payment subscription is active !',
 	cancelSubscription: 'Cancel subscription',
+	initSubscription: 'Init subscription',
+	subscriptionInfo: 'When the subscription is activated, all current debts will be paid, and payment for the next service periods will be debited automatically. Payment by card only available.',
+	subscriptionConfirmationInfo: 'I consent to the storage and processing of my credit/debit card details for recurring payments',
 };
