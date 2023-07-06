@@ -80,6 +80,6 @@ export default {
 	subscriptionIsActive: 'Subskrypcja płatności jest aktywna !',
 	cancelSubscription: 'Anuluj subskrypcje',
 	initSubscription: 'Rozpocznij subskrypcję',
-	subscriptionInfo: 'Po aktywowaniu abonamentu wszystkie bieżące zobowiązania zostaną spłacone, a opłata za kolejne okresy usługi zostanie pobrana automatycznie. Dostępna tylko płatność kartą.',
+	subscriptionInfo: 'Po aktywowaniu abonamentu wszystkie bieżące zobowiązania zostaną spłacone, a faktury będą opłacane automatycznie. Dostępna tylko płatność kartą.',
 	subscriptionConfirmationInfo: 'Wyrażam zgodę na zachowanie oraz przetwarzanie danych mojej karty kredytowej/debetowej w celu realizacji płatności cyklicznych',
 };
