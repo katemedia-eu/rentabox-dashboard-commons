@@ -46,5 +46,6 @@ export default {
 	maxValueIs: (value) => `Man value is ${value}`,
 	withoutSpaces: 'Should have no spaces',
 	of: 'of',
-	remains: 'Remains'
+	remains: 'Remains',
+	clear: 'Clear'
 };

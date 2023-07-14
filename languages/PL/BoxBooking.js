@@ -153,11 +153,19 @@ export default {
 	boxesFromAnotherCategory: 'Boksy z innej kategorii rozmiarów',
 	reservationDescription: 'Dokonanie rezerwacji jest bezpłatne. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od przesłania formularza',
 	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
+	paymentFromSecondWeek: 'Opłata od drugiego tygodnia',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`,
 	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',
 	readDocsAndAgree: (link) => `Akceptuję wszystkie punkty niniejszego oświadczenia oraz potwierdzam, że zapoznałem/am się z <a href=${link} rel="noopener noreferrer" target="_blank">regulaminem świadczenia usług drogą elektroniczną</a>`,
 	cantPreview: (link) => `Nie można wyświetlić podglądu, pobierz <a href=${link}>dokument</a>`,
 	getRoute: 'Uzyskać trasę',
 	externalBoxDescription: (link) => `Wybrany boks wymaga odbioru klucza z recepcji przed wprowadzeniem się ( <a href=${link}>SPRAWDŹ GODZINY OTWARCIA</a> )`,
-	viewThisbox: 'Zobacz magazyn w tym rozmiarze ->'
+	viewThisbox: 'Zobacz magazyn w tym rozmiarze ->',
+	carLimitsWarning: `
+		<span style="font-size: 18px"><b>Uwaga!</b></span> <br>
+		Wjazd na teren obiektu wyłącznie dla samochodów <br><b>do 3,05m</b>! <br>
+		Możliwość wjazdu wyższych samochodów tylko w godzinach pracy biura <br>
+		<span style="font-size: 16px">PN-PT: 08.00-19.00 </span> <br>
+		<span style="font-size: 16px">SOB: 10.00-15.00 </span><br>
+	`
 };

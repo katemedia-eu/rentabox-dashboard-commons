@@ -160,6 +160,7 @@ export default {
 	stretch: 'Stretch',
 	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
 	paymentFromSecondMonth: 'Payment from second month',
+	paymentFromSecondWeek: 'Payment from second week',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth}th month with ${discountPercent}% discount`,
 	reservationWithoutDepartureDateDescription: 'Indefinite period, notice period - 21 days',
 	readDocsAndAgree: (link) => `I accept all points of this statement and confirm that I have read the <a href=${link} rel="noopener noreferrer" target="_blank">regulations for the provision of electronic services</a>`,
@@ -178,5 +179,12 @@ export default {
 	viewThisbox: 'View this box ->',
 	andDeposit: 'and Deposit',
 	depositWillBeReturned: (amount) => `The security deposit (${amount}€) will be returned back to you after contract is terminated`,
-	includedInsuranceFull: 'Including insurance'
+	includedInsuranceFull: 'Including insurance',
+	carLimitsWarning: `
+		<span style="font-size: 18px"><b>Caution!</b></span> <br>
+		Entering the territory only for vehicles up to <br><b>3,05m</b>! <br>
+		Possibility for entering for the higher vehicles only during the office working hours<br>
+		PN-PT: 08.00-19.00 <br>
+		SOB: 10.00-15.00 <br>
+	`
 };

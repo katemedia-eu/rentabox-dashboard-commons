@@ -43,5 +43,6 @@ export default {
 	subHeading: 'Podpozycją',
 	normal: 'Normalny',
 	of: 'z',
-	remains: 'Pozostaje'
+	remains: 'Pozostaje',
+	clear: 'Oczyścić'
 };
