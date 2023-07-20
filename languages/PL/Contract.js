@@ -52,5 +52,6 @@ export default {
 	insuranceCoverageAmount: 'Kwota ubezpieczenia',
 	insuranceAmount: 'Suma ubezpieczenia',
 	regularPayment: 'Regularna płatność',
-	otherInvoices: 'Inne faktury'
+	otherInvoices: 'Inne faktury',
+	zeroPaidDaysDescription: 'Aby mieć dostęp do magazynu, kliknij w "szczegóły umowy" i opłać faktury.'
 };

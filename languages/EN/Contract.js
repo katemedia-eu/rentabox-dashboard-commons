@@ -54,5 +54,6 @@ export default {
 	regularPayment: 'Regular payment',
 	netto: 'netto',
 	brutto: 'brutto',
-	otherInvoices: 'Other invoices'
+	otherInvoices: 'Other invoices',
+	zeroPaidDaysDescription: 'To have access to the warehouse, click on "contract details" and pay the invoices.'
 };

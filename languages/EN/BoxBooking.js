@@ -80,6 +80,7 @@ export default {
 		basic: 'Monthly rate for an open-ended contract with 21-days notice period.',
 		smart: 'Average monthly rate for a fixed-term contract for a period of 6 to 11 months. The 30% discount is calculated for the 6th month.',
 		max: 'Average monthly rate for a fixed-term contract for 12 months. The 65% discount is calculated for the 12th month.',
+		week: 'Monthly rate for an open-ended contract with 7-days notice period.'
 	},
 	insuranceCoverage: 'Insurance coverage',
 	englishWordOr: 'or',
@@ -158,7 +159,7 @@ export default {
 	stockAddess: 'Stock address',
 	zoomOut: 'Zoom out',
 	stretch: 'Stretch',
-	reservationDescription: 'Making a reservation is free of charge. To access your box, visit our office no later than 3 days after submitting the form',
+	reservationDescription: 'Reservation is free. To gain access to your warehouse, visit our office no later than 3 days after making the reservation or conclude the contract online yourself, on your client account.',
 	paymentFromSecondMonth: 'Payment from second month',
 	paymentFromSecondWeek: 'Payment from second week',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Payment for ${specialMonth}th month with ${discountPercent}% discount`,
