@@ -11,4 +11,5 @@ export default {
 	validatePhone: (min, max) =>
 		`Pole numer telefonu musi mieć od ${min} do ${max} znaków`,
 	validatePasswordConfirmation: () => 'Hasło różni się',
+	invalidAmount: (fieldName, languageSchema, value) => `${languageSchema[fieldName] || fieldName} musi być ${value} znaków`,
 };

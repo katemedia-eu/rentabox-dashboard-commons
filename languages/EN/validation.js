@@ -11,4 +11,5 @@ export default {
 	validatePhone: (min, max) =>
 		`Field Phone number must be between ${min} and ${max} characters`,
 	validatePasswordConfirmation: () => 'Password mismatch',
+	invalidAmount: (fieldName, languageSchema, value) => `${languageSchema[fieldName] || fieldName} must be ${value} characters`,
 };

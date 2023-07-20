@@ -17,6 +17,7 @@ export default {
 	city: 'Miejscowość',
 	address: 'Ulica',
 	zip: 'Kod pocztowy',
+	pesel: 'Pesel',
 	company: 'Firma',
 	role: 'Rola',
 	stock: 'Magazyn',
