@@ -17,6 +17,7 @@ export default {
 	address: 'Address',
 	houseNumber: 'House',
 	zip: 'Zip',
+	pesel: 'Pesel',
 	company: 'Company',
 	role: 'Role',
 	stock: 'Stock',
