@@ -55,5 +55,6 @@ export default {
 	netto: 'netto',
 	brutto: 'brutto',
 	otherInvoices: 'Other invoices',
-	zeroPaidDaysDescription: 'To have access to the warehouse, click on "contract details" and pay the invoices.'
+	zeroPaidDaysDescription: 'To have access to the warehouse, click on "contract details" and pay the invoices.',
+	uploadApplication: 'Upload application'
 };

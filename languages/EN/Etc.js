@@ -47,5 +47,6 @@ export default {
 	withoutSpaces: 'Should have no spaces',
 	of: 'of',
 	remains: 'Remains',
-	clear: 'Clear'
+	clear: 'Clear',
+	areYouSure: 'Are you sure?',
 };
