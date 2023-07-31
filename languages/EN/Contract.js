@@ -1,6 +1,6 @@
 export default {
 	contractDetails: 'Сontract details',
-	BoxRentalAgreement: 'Umowa najmu boksu',
+	BoxRentalAgreement: 'Contract details',
 	termsOfUse: 'Terms of use',
 	tenantStatements: 'Tenant\'s statements',
 	invoices: 'Contract invoices',
@@ -56,5 +56,6 @@ export default {
 	brutto: 'brutto',
 	otherInvoices: 'Other invoices',
 	zeroPaidDaysDescription: 'To have access to the warehouse, click on "contract details" and pay the invoices.',
-	uploadApplication: 'Upload application'
+	uploadApplication: 'Upload application',
+	insuranceConditions: 'Insurance conditions'
 };
