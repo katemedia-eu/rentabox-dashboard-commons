@@ -74,10 +74,10 @@ export default {
 		`,
 	},
 	tariffs: {
-		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia.',
+		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia oraz przy zawarciu umowy na czas określony krótszy niż 6 miesięcy',
 		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje najliczona na 6 miesiąc.',
 		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje najliczona na 12 miesiąc.',
-		week: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 7-dniowym terminem wypowiedzenia.'
+		week: 'Taryfa obowiązuje przy podpisaniu umowy z tygodniowym okresem rozliczeniowym.'
 	},
 	insuranceCoverage: 'Ubezpieczenie do kwoty',
 	englishWordOr: 'lub',
@@ -153,7 +153,7 @@ export default {
 	step3SelectABox: 'Krok 3. Wybierz boks',
 	boxesFromAnotherCategory: 'Boksy z innej kategorii rozmiarów',
 	reservationDescription: 'Rezerwacja jest bezpłatna. Aby uzyskać dostęp do swojego magazynu, odwiedź nasze biuro w terminie nie dłuższym niż 3 dni od dokonania rezerwacji lub zawrzyj umowę online samodzielnie, na swoim koncie klienta.',
-	paymentFromSecondMonth: 'Opłata misięczna od drugiego miesiąca',
+	paymentFromSecondMonth: 'Opłata miesięczna od drugiego miesiąca',
 	paymentFromSecondWeek: 'Opłata od drugiego tygodnia',
 	specialMonthPaymentDescription: (specialMonth, discountPercent) => `Opłata za ${specialMonth} miesiąc ze zniżką ${discountPercent}%`,
 	reservationWithoutDepartureDateDescription: 'Czas niokreślony, okres wypowiedzenia - 21 dni',

@@ -17,7 +17,7 @@ export default {
 	address: 'Address',
 	houseNumber: 'House',
 	zip: 'Zip',
-	pesel: 'Pesel',
+	pesel: 'PESEL (or ID/passport number in the absence of PESEL)',
 	company: 'Company',
 	role: 'Role',
 	stock: 'Stock',

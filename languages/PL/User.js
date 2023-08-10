@@ -17,7 +17,7 @@ export default {
 	city: 'Miejscowość',
 	address: 'Ulica',
 	zip: 'Kod pocztowy',
-	pesel: 'Pesel',
+	pesel: 'PESEL (lub numer ID/paszportu w przypadku braku PESEL)',
 	company: 'Firma',
 	role: 'Rola',
 	stock: 'Magazyn',

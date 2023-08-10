@@ -44,6 +44,6 @@ export default {
 	normal: 'Normalny',
 	of: 'z',
 	remains: 'Pozostaje',
-	clear: 'Oczyścić',
+	clear: 'Wyczyść',
 	areYouSure: 'Jesteś pewny?',
 };

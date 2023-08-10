@@ -77,7 +77,7 @@ export default {
 		xl: 'Sufficient for household goods from 200 m² to 300 m² or for the archive from 330 to 480 boxes'
 	},
 	tariffs: {
-		basic: 'Monthly rate for an open-ended contract with 21-days notice period.',
+		basic: 'The tariff is valid when signing a contract for an indefinite period with a 21-day notice period and when concluding a contract for a definite period of less than 6 months',
 		smart: 'Average monthly rate for a fixed-term contract for a period of 6 to 11 months. The 30% discount is calculated for the 6th month.',
 		max: 'Average monthly rate for a fixed-term contract for 12 months. The 65% discount is calculated for the 12th month.',
 		week: 'Monthly rate for an open-ended contract with 7-days notice period.'
