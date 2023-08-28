@@ -18,6 +18,7 @@ export default {
 	maxContractDuration: 'Максимальный срок действия договора (мес.)',
 	routerIp: 'IP-адрес склада',
 	locksServerPort: 'Порт сервера замков',
+	offlineAppUrl: 'Ссылка на оффлайн приложение',
 	databaseServer: 'Сервер базы данных',
 	databasePort: 'Порт базы данных',
 	databaseName: 'Названия базы данных',
@@ -92,5 +93,11 @@ export default {
 	wifiNetworkName: 'Имя сети Wi-Fi',
 	gate: 'Ворота',
 	notifyOpenDoor: 'Чтобы открыть дверь, необходимо подключиться к Wi-Fi склада и отключить VPN!',
-	notifyOpenLock: 'Чтобы открыть замок, необходимо подключиться к Wi-Fi склада и отключить VPN! '
+	notifyOpenLock: 'Чтобы открыть замок, необходимо подключиться к Wi-Fi склада и отключить VPN! ',
+	redirectToOfflineApp: 'Перейти в оффлайн приложение',
+	followSteps: 'Выполните последовательно следующие действия:',
+	turnOffMobileNet: 'Отключите мобильный интернет',
+	connectToWiFi: 'Подключитесь к Wi-Fi cклада',
+	clickOfflineAppButton: 'Нажмите на кнопку перейти в оффлайн приложение',
+	stockConnectionIsLost: 'Отсутствует подключение со складом'
 };
