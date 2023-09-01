@@ -75,8 +75,8 @@ export default {
 	},
 	tariffs: {
 		basic: 'Taryfa obowiązuje przy podpisaniu umowy na czas nieokreślony z 21-dniowym terminem wypowiedzenia oraz przy zawarciu umowy na czas określony krótszy niż 6 miesięcy',
-		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje najliczona na 6 miesiąc.',
-		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje najliczona na 12 miesiąc.',
+		smart: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres od 6 do 11 miesięcy. Zniżka wysokości 30% zostaje naliczona na 6 miesiąc.',
+		max: 'Średnia kwota miesieczna przy podpisaniu umowy na czas określony na okres 12 miesięcy. Zniżka wysokości 65% zostaje naliczona na 12 miesiąc.',
 		week: 'Taryfa obowiązuje przy podpisaniu umowy z tygodniowym okresem rozliczeniowym.'
 	},
 	insuranceCoverage: 'Ubezpieczenie do kwoty',
