@@ -8,6 +8,8 @@ export default {
 	1003: 'Pole jest wymagane',
 	1004: 'Niedozwolona liczba symboli',
 
+	1077: 'Nie znaleziono aktualnych faktur',
+
 	5000: 'Użytkownik ma aktywne umowy. Proszę, sprawdź je',
 
 	6001: 'Box jest już zarezerwowany',
