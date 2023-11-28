@@ -51,7 +51,7 @@ export default {
 	download: 'Ściągnij',
 	insuranceCoverageAmount: 'Kwota ubezpieczenia',
 	insuranceAmount: 'Suma ubezpieczenia',
-	regularPayment: 'Regularna płatność',
+	regularPayment: 'Kwota Najmu',
 	otherInvoices: 'Inne faktury',
 	zeroPaidDaysDescription: 'Aby mieć dostęp do magazynu, kliknij w "szczegóły umowy" i opłać faktury.',
 	uploadApplication: 'Pobierz wniosek o zawarcie umowy',
