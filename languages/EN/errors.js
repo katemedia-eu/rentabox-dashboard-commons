@@ -9,6 +9,8 @@ export default {
 	1004: 'Not allowed symbols number',
 	1005: 'Wrong format',
 
+	1077: 'No current invoices found',
+
 	5000: 'User has active contracts. Please, check them',
 
 	6001: 'Box is already booked',

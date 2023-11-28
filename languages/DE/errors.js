@@ -8,6 +8,8 @@ export default {
 	1003: 'Pflichtfeld',
 	1004: 'Nicht zulässige Zeichen-Zahl',
 
+	1077: 'Keine aktuellen Rechnungen gefunden',
+
 	5000: 'Der Kunde hat aktive Verträge. Bitte überprufen.',
 
 	6001: 'Leider ist der Lagerraum schon gebucht. Bitte, wählen Sie einen anderen oder kontaktieren Sie den Kundendienst',

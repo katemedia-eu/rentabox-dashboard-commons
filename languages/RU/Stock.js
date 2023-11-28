@@ -99,5 +99,5 @@ export default {
 	turnOffMobileNet: 'Отключите мобильный интернет',
 	connectToWiFi: 'Подключитесь к Wi-Fi cклада',
 	clickOfflineAppButton: 'Нажмите на кнопку перейти в оффлайн приложение',
-	stockConnectionIsLost: 'Отсутствует подключение со складом'
+	stockConnectionIsLost: 'Уважаемые клиенты, в случаях проблем с интернетом на складе'
 };
