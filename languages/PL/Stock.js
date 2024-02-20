@@ -86,5 +86,7 @@ export default {
 	square: 'Powierzchnia',
 	boxSpace: 'Powierzchnia',
 	wifiNetworkName: 'Nazwa sieci Wi-Fi',
-	gate: 'Brama'
+	gate: 'Brama',
+	locksState: 'Stan zamka',
+	all: 'Wszystko'
 };

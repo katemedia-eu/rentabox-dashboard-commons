@@ -46,7 +46,7 @@ export default {
 	action: 'Action',
 	noHistoryRecords: 'History is empty',
 	account: 'Account',
-	opened: 'Open',
+	opened: 'Opened',
 	closed: 'Closed',
 	accountType: 'Account Type',
 	areYouSureYouWantToOpenBox: 'Are you sure you want to open the box?',
@@ -90,5 +90,7 @@ export default {
 	openingTime: 'Opening time',
 	closingTime: 'Closing time',
 	wifiNetworkName: 'Wi-Fi network name',
-	gate: 'Gate'
+	gate: 'Gate',
+	locksState: 'Lock\'s state',
+	all: 'All'
 };
